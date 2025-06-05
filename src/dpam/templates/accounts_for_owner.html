@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>API Client Account - List for Owner</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/kendo.common.min.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/kendo.blueopal.min.css') }}" />
+
+    <script src="{{ url_for('static', filename='js/kendo.all.min.js') }}"></script>
+    <script>
+        //var dataSource = [{"A":"apple", "B":"ball", "C":"cake"},{"A":"apple2", "B":"ball2", "C":"cake"},{"A":"apple3", "B":"ball3", "C":"cake"}];
+        var dataSource = {{accounts|safe}};
+    </script>
+</head>
+<body>
+{% if msg_type != "" %}
+<div class="alert alert-{{msg_type}} alert-dismissible fade show" role="alert">
+    {{ message }}
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+{% endif %}
+<h2>API Client Accounts Created by {{user_id}}</h2>
+<a href="{{ url_for('acct_bp.get_index_page') }}">
+    <span class="k-icon k-i-home"></span>    Home Menu
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ url_for('acct_bp.create_account') }}">
+    <span class="k-icon k-i-plus-circle"></span>    Create Account
+</a>
+<br/>
+<div id="grid"></div>
+<script>
+    $(document).ready(function () {
+        $("#grid").kendoGrid({
+            dataSource: {data:dataSource, pageSize: 10},
+            height: 446,
+            sortable: true,
+            pageable: {
+                refresh: true,
+                pageSizes: true,
+                buttonCount: 5
+            },
+            columns: [{
+                field: "CLIENT_ID",
+                title: "Client ID"
+            }, {
+                template: "<a href='" + "{{ url_for('acct_bp.request_apikey', client_id='') }}" + '#: CLIENT_ID #' + "'>" +
+                    `<span class='k-icon k-i-check-outline'></span> Request API Key</a>&nbsp;&nbsp;&nbsp;` +
+                    "<a href='" + "{{ url_for('acct_bp.change_password', client_id='') }}" +'#: CLIENT_ID #' + "'>" +
+                    `<span class='k-icon k-i-edit-tools'></span> Change password</a>&nbsp;&nbsp;&nbsp;` +
+                    "<a href='" + "{{ url_for('acct_bp.delete_account', client_id='') }}" + '#: CLIENT_ID #' + "'>" +
+                    `<span class='k-icon k-i-delete k-i-trash'></span> Delete</a>`,
+                field: "CLIENT_ID",
+                title: " "
+            }]
+        });
+    });
+</script>
+</body>
+</html>

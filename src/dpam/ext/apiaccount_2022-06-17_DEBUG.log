@@ -1,0 +1,15 @@
+2022-06-17 15:29:50 INFO: Begin Request APIKey from clientid eng
+2022-06-17 15:29:58 INFO: Response clientid: "eng"
+apikey: "5582816d-b249-352f-99be-b364708c7883"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-17 15:33:07 INFO: Begin Request APIKey from clientid mfg
+2022-06-17 15:33:07 INFO: Response clientid: "mfg"
+apikey: "d7d6fcaf-3b60-3c92-aae0-40a47416018c"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-17 15:58:32 INFO: Begin Request APIKey from clientid eng
+2022-06-17 15:58:32 INFO: Response clientid: "eng"
+apikey: "5582816d-b249-352f-99be-b364708c7883"
+expiry: "24"
+ from server localhost:23334 End

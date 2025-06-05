@@ -1,0 +1,1107 @@
+2025-03-24 09:36:24 INFO: giveb token is via auth header in Bearer c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d
+2025-03-24 09:36:24 INFO: step 00: token_required:True with given token c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d
+2025-03-24 09:36:24 INFO: Use sso v4/cert_key: c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d
+2025-03-24 09:36:24 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d
+
+2025-03-24 09:36:24 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d"} 
+ cert_key:c1ff0bc7-bf86-4e0b-afc8-99ec04fbc90d
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-24 09:36:24 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-24 09:37:19 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:19 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:19 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:19 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:37:19 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:37:19 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:37:19 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:37:19 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:19 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:19 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:37:19 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:37:19 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:37:33 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:33 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:33 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:33 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:37:33 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:37:33 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:37:33 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:37:33 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:33 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:33 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:37:33 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:37:33 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:37:33 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 09:37:50 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:50 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:50 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:37:50 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:37:50 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:37:50 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:37:50 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:37:50 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:50 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:37:50 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:37:50 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:37:50 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:38:53 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:38:53 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:38:53 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:38:53 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:38:53 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:38:53 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:38:53 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:38:53 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:38:53 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:38:53 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:38:53 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:38:53 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:40:56 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:40:56 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:40:56 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:40:56 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:40:56 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:40:56 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:40:56 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:40:56 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:40:56 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:40:56 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:40:56 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:40:56 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:41:42 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:41:42 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:41:42 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:41:42 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:41:42 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:41:42 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:41:42 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:41:42 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:41:42 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:41:42 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:41:42 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:41:42 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:41:42 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 09:42:08 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:42:08 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:42:08 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:42:08 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:42:08 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:42:08 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:42:08 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:42:08 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:42:08 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:42:08 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:42:08 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:42:08 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:42:08 INFO: accounts apds created by QS.CHOU/has grant the apikey: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 09:53:23 INFO: giveb token is via auth header in Bearer 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 09:53:23 INFO: step 00: token_required:True with given token 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 09:53:23 INFO: Use sso v4/cert_key: 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 09:53:23 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+
+2025-03-24 09:53:23 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=82356e4a-e2f6-4a2f-8797-17d629fdfe1e"} 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-24 09:53:23 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-24 09:53:57 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:53:57 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:53:57 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:53:57 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:53:57 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:53:57 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:53:57 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:53:57 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:53:57 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:53:57 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:53:57 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:53:57 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:56:52 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:56:52 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:56:52 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 09:56:52 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 09:56:52 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 09:56:52 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 09:56:52 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 09:56:52 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 09:56:52 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 09:56:52 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 09:56:52 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 09:56:52 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 09:56:52 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:08:16 INFO: giveb token is via auth header in Bearer 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 10:08:16 INFO: step 00: token_required:True with given token 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 10:08:16 INFO: Use sso v4/cert_key: 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 10:08:16 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+
+2025-03-24 10:08:16 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=82356e4a-e2f6-4a2f-8797-17d629fdfe1e"} 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-24 10:08:16 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-24 10:10:29 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:29 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:29 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:29 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:10:29 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:10:29 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:10:29 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:10:29 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:10:29 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:10:29 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:10:29 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:10:29 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:10:55 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:55 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:55 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:10:55 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:10:55 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:10:55 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:10:55 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:10:55 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:10:55 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:10:55 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:10:55 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:10:55 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:10:55 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 10:11:53 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:11:53 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:11:53 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:11:53 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:11:53 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:11:53 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:11:53 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:11:53 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:11:53 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:11:53 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:11:53 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:11:53 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:11:53 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:12:45 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:12:45 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:12:45 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:12:45 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:12:45 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:12:45 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:12:45 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:12:45 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:12:45 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:12:45 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:12:45 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:12:45 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:12:45 INFO: accounts apds created by QS.CHOU/has grant the apikey: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 10:33:04 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-24 10:33:04 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-24 10:33:04 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-24 10:33:04 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-24 10:33:04 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=628fddae-332d-4047-973a-04452dddf7ca"} 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-24 10:33:04 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-24 10:33:30 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:30 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:30 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:30 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:33:30 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:33:30 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:33:30 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:33:30 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:33:30 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:33:30 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:33:30 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:33:30 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:33:35 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:35 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:35 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:33:35 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:33:35 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:33:35 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:33:35 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:33:35 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:33:35 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:33:35 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:33:35 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:33:35 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:33:35 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 10:34:07 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:07 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:07 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:07 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:34:07 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:34:07 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:34:07 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:34:07 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:07 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:07 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:34:07 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:34:07 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:34:07 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:34:13 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:34:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:34:13 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:34:13 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:34:13 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:13 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:13 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:34:13 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:34:13 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:34:13 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:34:13 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:34:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:34:13 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:34:13 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:34:13 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:13 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:34:13 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:34:13 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:34:13 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:34:13 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:36:16 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:16 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:16 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:16 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:16 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:16 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:16 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:16 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:16 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:16 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:16 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:16 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:16 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:16 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:16 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:16 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:16 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:16 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:16 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:16 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:36:19 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:19 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:19 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:19 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:19 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:19 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:19 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:19 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:19 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:19 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:19 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:19 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:19 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:19 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:19 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:19 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:19 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:19 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:19 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:19 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:36:20 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:20 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:20 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:20 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:20 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:20 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:20 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:20 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:20 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:20 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:36:20 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:36:20 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:36:20 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:36:20 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:36:20 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:20 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:36:20 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:36:20 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:36:20 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:36:20 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:37:41 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:37:41 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:37:41 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:37:41 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:37:41 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:41 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:41 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:37:41 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:37:41 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:37:41 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:41 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:37:41 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:37:41 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:37:41 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:37:41 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:41 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:41 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:37:41 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:37:41 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:37:41 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:37:48 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:48 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:48 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:48 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:37:48 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:37:48 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:37:48 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:37:48 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:48 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:48 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:37:48 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:37:48 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:37:48 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:37:50 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:50 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:50 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:50 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:37:50 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:37:50 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:37:50 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:37:50 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:50 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:50 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:37:50 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:37:50 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:37:50 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:37:57 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:57 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:57 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:37:57 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:37:57 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:37:57 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:37:57 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:37:57 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:57 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:37:57 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:37:57 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:37:57 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:37:57 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:38:54 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:38:54 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:38:54 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:38:54 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:38:54 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:38:54 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:38:54 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:38:54 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:38:54 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:38:54 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:38:54 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:38:54 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:38:54 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:38:54 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:38:54 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:38:54 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:38:54 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:38:54 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:38:54 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:38:54 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:39:14 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:39:14 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:39:14 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:39:14 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:39:14 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:39:14 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:39:14 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:39:14 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:39:14 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:39:14 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:39:14 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:39:14 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:39:14 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 10:59:14 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:14 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:14 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:14 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:59:14 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:59:14 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:59:14 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:59:14 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:14 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:14 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:59:14 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:59:14 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:59:42 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:59:42 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:59:42 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:59:42 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:59:42 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:42 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:42 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:59:42 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:59:42 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:59:42 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 10:59:42 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 10:59:42 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 10:59:42 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 10:59:42 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 10:59:42 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:42 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 10:59:42 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 10:59:42 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 10:59:42 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 10:59:42 INFO: accounts apds created by QS.CHOU/has grant the apikey: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:21:11 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 11:21:11 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 11:21:11 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 11:21:11 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 11:21:11 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 11:21:11 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 11:21:11 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 11:21:11 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 11:21:11 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 11:21:11 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 11:21:11 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 11:21:11 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 11:21:11 INFO: accounts apds created by QS.CHOU/has grant the apikey: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:35:57 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:36:01 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:50:35 INFO: giveb token is via auth header in Bearer 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 14:50:35 INFO: step 00: token_required:True with given token 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 14:50:35 INFO: Use sso v4/cert_key: 82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+2025-03-24 14:50:35 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+
+2025-03-24 14:50:35 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=82356e4a-e2f6-4a2f-8797-17d629fdfe1e"} 
+ cert_key:82356e4a-e2f6-4a2f-8797-17d629fdfe1e
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-24 14:50:35 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-24 14:51:03 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:03 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:03 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:03 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 14:51:03 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 14:51:03 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 14:51:03 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 14:51:03 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:03 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:03 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 14:51:03 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 14:51:03 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 14:51:11 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:11 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:11 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:11 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 14:51:11 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 14:51:11 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 14:51:11 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 14:51:11 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:11 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:11 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 14:51:11 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 14:51:11 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 14:51:11 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 14:51:21 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:21 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:21 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:21 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 14:51:21 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 14:51:21 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 14:51:21 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 14:51:21 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:21 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:21 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 14:51:22 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 14:51:22 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 14:51:22 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 14:51:31 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 14:51:31 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 14:51:31 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 14:51:31 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 14:51:31 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:31 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:31 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 14:51:31 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 14:51:31 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 14:51:31 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 14:51:31 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 14:51:31 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 14:51:31 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 14:51:31 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 14:51:31 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:31 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 14:51:31 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 14:51:31 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 14:51:31 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 14:51:31 INFO: apds requestes apikey pass password checked True
+2025-03-24 14:51:31 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:51:31 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:51:31 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:51:31 INFO: apds requestes apikey genereated and cahced at 10.53.200.183:35259
+2025-03-24 14:51:31 INFO: accounts apds created by QS.CHOU/has grant the apikey: {'clientid': 'apds', 'apikey': '04fecfdb-86ac-3685-b6ca-269adb9d9ee9', 'expiry': 24}
+2025-03-24 14:52:11 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:52:51 INFO: Get cache key: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:02:51 INFO: Get cache key: 123
+2025-03-24 15:09:35 INFO: Get cache key: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:10:09 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 15:13:27 INFO: Get cache key: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:13:27 INFO: Deny request: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:14:44 INFO: Get cache key: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:14:44 INFO: Deny request: 04fecfdb-86ac-3684-b6ca-269adb9d9ee9
+2025-03-24 15:15:04 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 15:15:04 INFO: Issue request: @apds 04fecfdb-86ac-3685-b6ca-269adb9d9ee9 /carux/apds
+2025-03-24 15:30:58 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:30:58 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:30:58 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:30:58 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:30:58 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:30:58 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:30:58 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:30:59 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:30:59 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:30:59 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:30:59 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:30:59 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:11 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:11 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:11 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:11 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:11 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:11 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:11 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:11 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:11 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:11 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:11 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:11 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:11 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 15:31:12 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:12 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:12 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:12 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:12 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:12 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:12 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:12 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:12 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:12 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:12 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:12 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:12 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-24 15:31:24 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:24 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:24 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:24 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:24 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:24 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:24 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:24 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:24 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:24 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:24 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:24 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:24 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 15:31:26 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:26 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:26 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:26 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:26 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:26 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:26 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:26 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:26 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:26 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:26 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:26 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:26 INFO: list accounts ['apds'] created by QS.CHOU has requested permissoin/ds/carux/apds
+2025-03-24 15:31:33 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:33 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:33 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:33 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:33 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:33 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:33 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:33 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:33 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:33 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:31:33 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:31:33 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:31:33 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:31:33 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:31:33 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:33 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:31:33 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:31:33 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:31:33 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:31:33 INFO: apds requestes apikey pass password checked True
+2025-03-24 15:31:33 INFO: apds requestes apikey not expiry checked True
+2025-03-24 15:31:33 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 15:31:33 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 15:31:33 INFO: apds requestes apikey genereated and cahced at 10.53.200.183:35259
+2025-03-24 15:31:33 INFO: accounts apds created by QS.CHOU/has grant the apikey: {'clientid': 'apds', 'apikey': '04fecfdb-86ac-3685-b6ca-269adb9d9ee9', 'expiry': 24}
+2025-03-24 15:32:15 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 15:32:15 INFO: Issue request: @apds 04fecfdb-86ac-3685-b6ca-269adb9d9ee9 /carux/apds
+2025-03-24 15:32:55 INFO: giveb token is via auth header in Bearer d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:32:55 INFO: step 00: token_required:True with given token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:32:55 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 15:32:55 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 15:32:55 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 15:32:55 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 15:32:55 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 15:32:55 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 15:32:55 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 15:32:55 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 15:32:55 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 15:32:55 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 15:32:55 INFO: apds requestes apikey pass password checked True
+2025-03-24 15:32:55 INFO: apds requestes apikey not expiry checked True
+2025-03-24 15:32:55 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 15:32:55 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 15:32:55 INFO: apds requestes apikey genereated and cahced at 10.53.200.183:35259
+2025-03-24 15:32:55 INFO: accounts apds created by QS.CHOU/has grant the apikey: {'clientid': 'apds', 'apikey': '04fecfdb-86ac-3685-b6ca-269adb9d9ee9', 'expiry': 24}
+2025-03-24 16:04:49 INFO: step 01: token_required:True without Token
+2025-03-24 16:04:49 INFO: myhost : http://10.56.133.132:8060/account/
+2025-03-24 16:04:49 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2025-03-24 16:04:50 INFO: step 02: token_required:True with Token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:04:50 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:04:50 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 16:04:50 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 16:04:50 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 16:04:50 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 16:04:50 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 16:04:50 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 16:04:50 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 16:04:50 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 16:04:50 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 16:13:28 INFO: step 02: token_required:True with Token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:13:28 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:13:28 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 16:13:28 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 16:13:28 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 16:13:28 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 16:13:28 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 16:13:28 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 16:13:28 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 16:13:28 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 16:13:28 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 16:13:31 INFO: step 03: token_required:False sess_key: 40-45a7-987b-8c94625
+2025-03-24 16:13:31 INFO: step 03-2 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:13:31 INFO: step 03-3 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:13:31 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+ 
+2025-03-24 16:13:54 INFO: step 01: token_required:True without Token
+2025-03-24 16:13:54 INFO: myhost : http://10.56.133.132:8060/account/
+2025-03-24 16:13:54 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2025-03-24 16:13:54 INFO: step 02: token_required:True with Token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:13:54 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:13:54 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 16:13:54 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 16:13:54 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 16:13:54 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 16:13:54 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 16:13:54 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 16:13:54 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 16:13:54 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 16:13:54 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625
+2025-03-24 16:13:58 INFO: step 03: token_required:False sess_key: 40-45a7-987b-8c94625
+2025-03-24 16:13:58 INFO: step 03-2 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:13:58 INFO: step 03-3 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:13:58 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+ 
+2025-03-24 16:14:05 INFO: step 03: token_required:False sess_key: 40-45a7-987b-8c94625
+2025-03-24 16:14:05 INFO: step 03-2 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:14:05 INFO: step 03-3 sess_key: 40-45a7-987b-8c94625 / user_id: QS.CHOU
+2025-03-24 16:14:05 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+ 
+2025-03-24 16:14:36 INFO: step 01: token_required:True without Token
+2025-03-24 16:14:36 INFO: myhost : http://10.56.133.132:8060/account/
+2025-03-24 16:14:36 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2025-03-24 16:14:36 INFO: step 02: token_required:True with Token d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:14:36 INFO: Use sso v4/cert_key: d66b551f-6440-45a7-987b-8c9462563167
+2025-03-24 16:14:36 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:d66b551f-6440-45a7-987b-8c9462563167
+
+2025-03-24 16:14:36 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'd66b551f-6440-45a7-987b-8c9462563167', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-24 16:14:36 INFO: Set cache key: 40-45a7-987b-8c94625
+2025-03-24 16:14:36 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-24 16:14:36 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-24 16:14:36 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-24 16:14:36 DEBUG: Set cache value: {"sess_key": "40-45a7-987b-8c94625", "emp_id": "10136399"}
+2025-03-24 16:14:36 INFO: validate_user step 2: token:d66b551f-6440-45a7-987b-8c9462563167
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 40-45a7-987b-8c94625 
+2025-03-24 16:14:36 INFO: End of validate user: user_id: QS.CHOU / sess_key:40-45a7-987b-8c94625

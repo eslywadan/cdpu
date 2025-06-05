@@ -1,0 +1,293 @@
+2025-03-21 08:26:41 INFO: giveb token is via auth header in Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-21 08:26:41 INFO: accept_charsets:  
+ accept_encodings: gzip,deflate 
+accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+ accept_mimetypes: application/json 
+access_control_request_headers :None 
+access_control_request_method:None 
+access_route:ImmutableList(['10.56.133.132'])
+ application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+args:ImmutableMultiDict([]) 
+ authorization:None 
+base_url:http://10.56.133.132:8060/api/user/clients 
+blueprint:acctapi_bp 
+blueprints:['acctapi_bp'] 
+cache_control: 
+headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept: application/json
+Authorization: Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+Referer: http://10.56.133.132:8060/api/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=0c-4c17-ae5d-3341130
+
+ 
+server:('0.0.0.0', 8060) 
+environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2032>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000269A2AEB8B0>, 'werkzeug.socket': <socket.socket fd=2032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 55810)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/api/user/clients', 'QUERY_STRING': '', 'REQUEST_URI': '/api/user/clients', 'RAW_URI': '/api/user/clients', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 55810, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'application/json', 'HTTP_AUTHORIZATION': 'Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01', 'HTTP_REFERER': 'http://10.56.133.132:8060/api/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=0c-4c17-ae5d-3341130', 'werkzeug.request': <Request 'http://10.56.133.132:8060/api/user/clients' [GET]>} 
+endpoint:acctapi_bp.user_clients
+cookies :ImmutableMultiDict([('session_api_account', '0c-4c17-ae5d-3341130')])
+content_encoding:None
+
+2025-03-21 08:26:41 INFO: step 00: token_required:True with given token 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-21 08:26:41 INFO: Use sso v4/cert_key: 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-21 08:26:41 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+
+2025-03-21 08:26:41 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=9b4d7ff4-9b0c-4c17-ae5d-33411304be01"} 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-21 08:26:41 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-21 08:27:34 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:27:34 INFO: accept_charsets:  
+ accept_encodings: gzip,deflate 
+accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+ accept_mimetypes: application/json 
+access_control_request_headers :None 
+access_control_request_method:None 
+access_route:ImmutableList(['10.56.133.132'])
+ application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+args:ImmutableMultiDict([]) 
+ authorization:None 
+base_url:http://10.56.133.132:8060/api/user 
+blueprint:acctapi_bp 
+blueprints:['acctapi_bp'] 
+cache_control: 
+headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept: application/json
+Authorization: Bearer 628fddae-332d-4047-973a-04452dddf7ca
+Referer: http://10.56.133.132:8060/api/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=0c-4c17-ae5d-3341130
+
+ 
+server:('0.0.0.0', 8060) 
+environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1912>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000269A2D3CE50>, 'werkzeug.socket': <socket.socket fd=1912, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 55875)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/api/user', 'QUERY_STRING': '', 'REQUEST_URI': '/api/user', 'RAW_URI': '/api/user', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 55875, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'application/json', 'HTTP_AUTHORIZATION': 'Bearer 628fddae-332d-4047-973a-04452dddf7ca', 'HTTP_REFERER': 'http://10.56.133.132:8060/api/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=0c-4c17-ae5d-3341130', 'werkzeug.request': <Request 'http://10.56.133.132:8060/api/user' [GET]>} 
+endpoint:acctapi_bp.validate_ss_otoken
+cookies :ImmutableMultiDict([('session_api_account', '0c-4c17-ae5d-3341130')])
+content_encoding:None
+
+2025-03-21 08:27:34 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:27:34 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:27:34 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:27:34 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=628fddae-332d-4047-973a-04452dddf7ca"} 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-21 08:27:34 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-21 08:28:04 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:04 INFO: accept_charsets:  
+ accept_encodings: gzip,deflate 
+accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+ accept_mimetypes: application/json 
+access_control_request_headers :None 
+access_control_request_method:None 
+access_route:ImmutableList(['10.56.133.132'])
+ application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+args:ImmutableMultiDict([]) 
+ authorization:None 
+base_url:http://10.56.133.132:8060/api/user 
+blueprint:acctapi_bp 
+blueprints:['acctapi_bp'] 
+cache_control: 
+headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept: application/json
+Authorization: Bearer 628fddae-332d-4047-973a-04452dddf7ca
+Referer: http://10.56.133.132:8060/api/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=0c-4c17-ae5d-3341130
+
+ 
+server:('0.0.0.0', 8060) 
+environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2024>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000269A2AEBB80>, 'werkzeug.socket': <socket.socket fd=2024, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 55910)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/api/user', 'QUERY_STRING': '', 'REQUEST_URI': '/api/user', 'RAW_URI': '/api/user', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 55910, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'application/json', 'HTTP_AUTHORIZATION': 'Bearer 628fddae-332d-4047-973a-04452dddf7ca', 'HTTP_REFERER': 'http://10.56.133.132:8060/api/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=0c-4c17-ae5d-3341130', 'werkzeug.request': <Request 'http://10.56.133.132:8060/api/user' [GET]>} 
+endpoint:acctapi_bp.validate_ss_otoken
+cookies :ImmutableMultiDict([('session_api_account', '0c-4c17-ae5d-3341130')])
+content_encoding:None
+
+2025-03-21 08:28:04 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:04 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:04 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:28:04 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=628fddae-332d-4047-973a-04452dddf7ca"} 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-21 08:28:04 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-21 08:28:46 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:46 INFO: accept_charsets:  
+ accept_encodings: gzip,deflate 
+accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+ accept_mimetypes: application/json 
+access_control_request_headers :None 
+access_control_request_method:None 
+access_route:ImmutableList(['10.56.133.132'])
+ application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+args:ImmutableMultiDict([]) 
+ authorization:None 
+base_url:http://10.56.133.132:8060/api/user 
+blueprint:acctapi_bp 
+blueprints:['acctapi_bp'] 
+cache_control: 
+headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept: application/json
+Authorization: Bearer 628fddae-332d-4047-973a-04452dddf7ca
+Referer: http://10.56.133.132:8060/api/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=0c-4c17-ae5d-3341130
+
+ 
+server:('0.0.0.0', 8060) 
+environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2000>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000269A2D22430>, 'werkzeug.socket': <socket.socket fd=2000, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 55971)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/api/user', 'QUERY_STRING': '', 'REQUEST_URI': '/api/user', 'RAW_URI': '/api/user', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 55971, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'application/json', 'HTTP_AUTHORIZATION': 'Bearer 628fddae-332d-4047-973a-04452dddf7ca', 'HTTP_REFERER': 'http://10.56.133.132:8060/api/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=0c-4c17-ae5d-3341130', 'werkzeug.request': <Request 'http://10.56.133.132:8060/api/user' [GET]>} 
+endpoint:acctapi_bp.validate_ss_otoken
+cookies :ImmutableMultiDict([('session_api_account', '0c-4c17-ae5d-3341130')])
+content_encoding:None
+
+2025-03-21 08:28:46 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:46 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:28:46 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:28:46 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=628fddae-332d-4047-973a-04452dddf7ca"} 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2025-03-21 08:28:46 INFO: End of validate user: user_id: None / sess_key:None
+2025-03-21 08:33:51 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:33:51 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:33:51 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:33:51 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:33:51 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 08:33:51 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 08:33:51 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 08:33:51 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 08:33:51 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 08:33:51 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 08:33:51 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 08:33:51 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd
+2025-03-21 08:34:10 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:34:10 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:34:10 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:34:10 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:34:10 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 08:34:10 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 08:34:10 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 08:34:10 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 08:34:10 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 08:34:10 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 08:34:10 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 08:34:10 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd
+2025-03-21 08:34:10 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}, {'CLIENT_ID': 'retrain2', 'CREATE_DTTM': '2024-08-16 09:26:56'}]
+2025-03-21 08:39:20 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:39:20 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:39:20 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 08:39:20 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 08:39:20 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 08:39:20 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 08:39:20 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 08:39:20 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 08:39:20 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 08:39:20 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 08:39:20 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 08:39:20 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd
+2025-03-21 08:39:20 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}, {'CLIENT_ID': 'retrain2', 'CREATE_DTTM': '2024-08-16 09:26:56'}]
+2025-03-21 09:10:13 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:10:13 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:10:13 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:10:13 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 09:10:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 09:10:13 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 09:10:13 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 09:10:13 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 09:10:13 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 09:10:13 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 09:10:13 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 09:10:13 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd
+2025-03-21 09:19:11 INFO: giveb token is via auth header in Bearer 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:19:11 INFO: step 00: token_required:True with given token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:19:11 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:19:11 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 09:19:11 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 09:19:11 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 09:19:11 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 09:19:11 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 09:19:11 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 09:19:11 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 09:19:11 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 09:19:11 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd
+2025-03-21 09:19:11 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'test_reg_retrain_cds', 'CREATE_DTTM': '2024-06-26 05:30:00'}, {'CLIENT_ID': 'ml365_da_test', 'CREATE_DTTM': '2024-09-09 02:55:55'}, {'CLIENT_ID': 'test_samv4', 'CREATE_DTTM': '2024-12-09 09:10:18'}, {'CLIENT_ID': 'caruxPd', 'CREATE_DTTM': '2025-03-07 05:15:39'}, {'CLIENT_ID': 'apds', 'CREATE_DTTM': '2025-03-18 04:02:32'}]
+2025-03-21 09:20:10 INFO: step 01: token_required:True without Token
+2025-03-21 09:20:10 INFO: myhost : http://10.56.133.132:8060/account/
+2025-03-21 09:20:10 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2025-03-21 09:20:10 INFO: step 02: token_required:True with Token 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:20:10 INFO: Use sso v4/cert_key: 628fddae-332d-4047-973a-04452dddf7ca
+2025-03-21 09:20:10 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:628fddae-332d-4047-973a-04452dddf7ca
+
+2025-03-21 09:20:10 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '628fddae-332d-4047-973a-04452dddf7ca', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': ''}
+2025-03-21 09:20:10 INFO: Set cache key: 2d-4047-973a-04452dd
+2025-03-21 09:20:10 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-21 09:20:10 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-21 09:20:10 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-21 09:20:10 DEBUG: Set cache value: {"sess_key": "2d-4047-973a-04452dd", "emp_id": "10136399"}
+2025-03-21 09:20:10 INFO: validate_user step 2: token:628fddae-332d-4047-973a-04452dddf7ca
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2d-4047-973a-04452dd 
+2025-03-21 09:20:10 INFO: End of validate user: user_id: QS.CHOU / sess_key:2d-4047-973a-04452dd

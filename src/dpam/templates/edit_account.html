@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>API Client Account - Edit Account</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/select2-4.1.0-rc.0.min.css') }}">
+    <script src="{{ url_for('static', filename='js/select2-4.1.0-rc.0.min.js') }}"></script>
+</head>
+<body>
+    <h2>Edit API Client Account</h2>
+
+    <form style="padding-left:100px;padding-top:40px;width:400px;" action="{{ url_for('acct_bp.update_account_for_admin') }}" method="POST">
+        <div class="form-group">
+            <label for="txt_client_id">Client ID</label>
+            <input name="txt_client_id" id="txt_client_id" class="form-control" readonly value="{{ account['CLIENT_ID'] }}">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_expiry">有效期限</label>
+            <input name="txt_expiry" id="txt_expiry" class="form-control" value="{{ account['EXPIRY'] }}">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_registry">Registry</label>
+            <input name="txt_registry" id="txt_registry" class="form-control" value="{{ account['REGISTRY'] }}">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_bind_group">Bind Group</label>
+            <select name="txt_bind_group" id="txt_bind_group" style="width: 300px;" class="form-control" multiple="multiple"></select>
+            <!--<input name="txt_bind_group" id="txt_bind_group" class="form-control" value="{{ account['BIND_GROUP'] }}">-->
+        </div>
+
+        <div class="form-group">
+            <label for="txt_bind_role">Bind Role</label>
+            <select name="txt_bind_role" id="txt_bind_role" style="width: 300px;" class="form-control" multiple="multiple"></select>
+            <!--<input name="txt_bind_role" id="txt_bind_role" class="form-control" value="{{ account['BIND_ROLE'] }}">-->
+        </div>
+
+        <div class="form-group">
+            <input type="checkbox" name="chk_perm_query" id="chk_perm_query" {{'checked' if 'QUERY' in account['PERMISSION'].split('|')}}> <label for="chk_perm_query"> Query </label>
+            <input type="checkbox" name="chk_perm_debug" id="chk_perm_debug" {{'checked' if 'DEBUG' in account['PERMISSION'].split('|')}}> <label for="chk_perm_debug"> Debug </label>
+            <input type="checkbox" name="chk_perm_admin" id="chk_perm_admin" {{'checked' if 'ADMIN' in account['PERMISSION'].split('|')}}> <label for="chk_perm_admin"> Admin </label>
+        </div>
+
+        <div class="form-group">
+            <input type="checkbox" name="chk_obsolete" id="chk_obsolete" {{'checked' if account['OBSOLETE']==1}}> <label for="chk_obsolete"> 作廢 </label>
+        </div>
+
+        <div style="color:red;" id="errorContainer">{{error}}</div>
+        <br/>
+        
+        <input type="submit" class="btn btn-outline-info" value="Update Client ID">
+        <button type="button" class="btn btn-outline-info" onclick="window.location.href = '{{ list_page }}';"> Cancel </button>
+
+    </form>
+    <script>
+        $(function(){
+            // 初始化 Select2 並載入資料    
+            var role_opts = {{ role_clientIds|default([])|tojson }};
+            var group_opts = {{ group_clientIds|default([])|tojson }};
+            $('#txt_bind_role').select2({
+                data: role_opts,
+                allowClear: true
+            });
+            $('#txt_bind_group').select2({
+                data: group_opts,
+                allowClear: true
+            });
+            // 預設帶入選取值
+            var selected_roles_str = "{{ account['BIND_ROLE'] }}";
+            var selected_groups_str = "{{ account['BIND_GROUP'] }}";
+            var selected_roles = selected_roles_str ? selected_roles_str.split(',') : [];
+            var selected_groups = selected_groups_str ? selected_groups_str.split(',') : [];
+            if (selected_roles.length > 0 ) $('#txt_bind_role').val(selected_roles).trigger('change');
+            if (selected_groups.length > 0 ) $('#txt_bind_group').val(selected_groups).trigger('change');
+
+            var err = `{{error}}`;
+            if (err) {
+                alert (err) ;
+                $("#errorContainer").html(err.replace(/\n/g, "<br>"));
+            }    
+        });
+    </script>
+</body>
+</html>

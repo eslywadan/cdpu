@@ -1,0 +1,8 @@
+2022-11-08 16:53:38 INFO: Begin Request APIKey from clientid eng
+2022-11-08 16:55:43 INFO: Begin Request APIKey from clientid mfg
+2022-11-08 16:55:53 INFO: Begin Request APIKey from clientid eng
+2022-11-08 16:58:47 INFO: Begin Request APIKey from clientid eng
+2022-11-08 16:58:47 INFO: Response clientid: "eng"
+apikey: "1827e87c-6c7a-377a-81a8-f5cb2b000d88"
+expiry: "24"
+ from server 10.53.200.104:33132 End

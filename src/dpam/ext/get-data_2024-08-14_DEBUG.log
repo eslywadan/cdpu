@@ -1,0 +1,91 @@
+2024-08-14 16:29:57 INFO: step 01: token_required:True without Token
+2024-08-14 16:29:57 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-14 16:29:57 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-14 16:29:58 INFO: step 02: token_required:True with Token 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:29:58 INFO: Use sso v4/cert_key: 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:29:58 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+
+2024-08-14 16:29:58 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9d5ca189-ef23-4dff-8e99-eb10aebe0eec', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-14 16:29:58 INFO: Set cache key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:29:58 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-14 16:29:58 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-14 16:29:58 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-14 16:29:58 DEBUG: Set cache value: {"sess_key": "23-4dff-8e99-eb10aeb", "emp_id": "10136399"}
+2024-08-14 16:29:58 INFO: validate_user step 2: token:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+2024-08-14 16:29:58 INFO: End of validate user: user_id: QS.CHOU / sess_key:23-4dff-8e99-eb10aeb
+2024-08-14 16:30:49 INFO: step 03: token_required:False sess_key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:30:49 INFO: step 03-2 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:30:49 INFO: step 03-3 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:30:49 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+ 
+2024-08-14 16:30:49 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-08-14 16:30:59 INFO: step 03: token_required:False sess_key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:30:59 INFO: step 03-2 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:30:59 INFO: step 03-3 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:30:59 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+ 
+2024-08-14 16:31:23 INFO: Begin Request APIKey from clientid eng
+2024-08-14 16:31:23 INFO: Response clientid: "eng"
+apikey: "55e97652-6696-3edd-9d1e-20709ef9a808"
+expiry: "24"
+ from server 10.53.200.183:34072 End
+2024-08-14 16:33:36 INFO: step 01: token_required:True without Token
+2024-08-14 16:33:36 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-14 16:33:36 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-14 16:33:36 INFO: step 02: token_required:True with Token 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:33:36 INFO: Use sso v4/cert_key: 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:33:36 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+
+2024-08-14 16:33:36 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9d5ca189-ef23-4dff-8e99-eb10aebe0eec', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-14 16:33:36 INFO: Set cache key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:33:36 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-14 16:33:36 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-14 16:33:37 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-14 16:33:37 DEBUG: Set cache value: {"sess_key": "23-4dff-8e99-eb10aeb", "emp_id": "10136399"}
+2024-08-14 16:33:37 INFO: validate_user step 2: token:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+2024-08-14 16:33:37 INFO: End of validate user: user_id: QS.CHOU / sess_key:23-4dff-8e99-eb10aeb
+2024-08-14 16:33:38 INFO: step 03: token_required:False sess_key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:33:38 INFO: step 03-2 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:33:38 INFO: step 03-3 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:33:38 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+ 
+2024-08-14 16:33:38 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-08-14 16:39:30 INFO: step 01: token_required:True without Token
+2024-08-14 16:39:30 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-14 16:39:30 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-14 16:39:31 INFO: step 02: token_required:True with Token 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:39:31 INFO: Use sso v4/cert_key: 9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+2024-08-14 16:39:31 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+
+2024-08-14 16:39:31 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9d5ca189-ef23-4dff-8e99-eb10aebe0eec', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-14 16:39:31 INFO: Set cache key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:39:31 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-14 16:39:31 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-14 16:39:31 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-14 16:39:31 DEBUG: Set cache value: {"sess_key": "23-4dff-8e99-eb10aeb", "emp_id": "10136399"}
+2024-08-14 16:39:31 INFO: validate_user step 2: token:9d5ca189-ef23-4dff-8e99-eb10aebe0eec
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+2024-08-14 16:39:31 INFO: End of validate user: user_id: QS.CHOU / sess_key:23-4dff-8e99-eb10aeb
+2024-08-14 16:39:35 INFO: step 03: token_required:False sess_key: 23-4dff-8e99-eb10aeb
+2024-08-14 16:39:35 INFO: step 03-2 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:39:35 INFO: step 03-3 sess_key: 23-4dff-8e99-eb10aeb / user_id: QS.CHOU
+2024-08-14 16:39:35 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 23-4dff-8e99-eb10aeb 
+ 

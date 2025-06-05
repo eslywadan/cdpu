@@ -1,0 +1,502 @@
+2024-06-24 14:05:20 INFO: Begin Enquiry Client Info from clientid mfg
+2024-06-24 16:56:29 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=ad-4948-b775-6fd29e3
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1816>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975B80>, 'werkzeug.socket': <socket.socket fd=1816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 65388)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 65388, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=ad-4948-b775-6fd29e3', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'ad-4948-b775-6fd29e3')])
+                       content_encoding:None
+                        
+2024-06-24 16:56:29 INFO: step 01: token_required:True without Token
+2024-06-24 16:56:29 INFO: myhost : http://10.56.133.132:8060/account/
+2024-06-24 16:56:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-06-24 16:56:41 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=ad-4948-b775-6fd29e3
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1848>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975A60>, 'werkzeug.socket': <socket.socket fd=1848, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 65391)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 65391, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=ad-4948-b775-6fd29e3', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'ad-4948-b775-6fd29e3')])
+                       content_encoding:None
+                        
+2024-06-24 16:56:41 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 16:56:41 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 16:56:41 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 16:56:41 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 16:56:41 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 16:56:41 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 16:56:41 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 16:56:41 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 16:56:41 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 16:56:41 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 16:56:41 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269
+2024-06-24 16:56:46 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/accounts_for_owner 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1864>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975EE0>, 'werkzeug.socket': <socket.socket fd=1864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 65432)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/accounts_for_owner', 'QUERY_STRING': '', 'REQUEST_URI': '/account/accounts_for_owner', 'RAW_URI': '/account/accounts_for_owner', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 65432, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/accounts_for_owner' [GET]>} 
+                       endpoint:acct_bp.browse_owner_accounts
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 16:56:46 INFO: step 03: token_required:False sess_key: b1-4beb-9194-15fd269
+2024-06-24 16:56:46 INFO: step 03-2 sess_key: b1-4beb-9194-15fd269 / user_id: QS.CHOU
+2024-06-24 16:56:46 INFO: step 03-3 sess_key: b1-4beb-9194-15fd269 / user_id: QS.CHOU
+2024-06-24 16:56:46 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+ 
+2024-06-24 16:56:46 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-06-24 17:19:28 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/accounts_for_owner 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control:max-age=0 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2196>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975EE0>, 'werkzeug.socket': <socket.socket fd=2196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49822)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/accounts_for_owner', 'QUERY_STRING': '', 'REQUEST_URI': '/account/accounts_for_owner', 'RAW_URI': '/account/accounts_for_owner', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49822, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_CACHE_CONTROL': 'max-age=0', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/accounts_for_owner' [GET]>} 
+                       endpoint:acct_bp.browse_owner_accounts
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:19:28 INFO: step 03: token_required:False sess_key: b1-4beb-9194-15fd269
+2024-06-24 17:19:28 INFO: step 03-2 sess_key: b1-4beb-9194-15fd269 / user_id: QS.CHOU
+2024-06-24 17:19:28 INFO: step 03-3 sess_key: b1-4beb-9194-15fd269 / user_id: QS.CHOU
+2024-06-24 17:19:28 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+ 
+2024-06-24 17:19:28 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-06-24 17:19:32 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2356>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B19C2DC0>, 'werkzeug.socket': <socket.socket fd=2356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49833)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49833, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:19:32 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:19:32 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:19:32 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 17:19:32 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 17:19:32 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 17:19:32 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 17:19:32 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 17:19:32 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 17:19:32 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 17:19:32 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 17:19:32 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269
+2024-06-24 17:19:37 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2140>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1A4F820>, 'werkzeug.socket': <socket.socket fd=2140, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49850)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49850, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:19:37 INFO: step 01: token_required:True without Token
+2024-06-24 17:19:37 INFO: myhost : http://10.56.133.132:8060/account/
+2024-06-24 17:19:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-06-24 17:19:37 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2032>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1A4F9D0>, 'werkzeug.socket': <socket.socket fd=2032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49851)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49851, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:19:37 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:19:37 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:19:37 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 17:19:37 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 17:19:37 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 17:19:37 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 17:19:37 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 17:19:37 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 17:19:37 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 17:19:37 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 17:19:37 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269
+2024-06-24 17:20:05 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control:max-age=0 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=812>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1A4FAF0>, 'werkzeug.socket': <socket.socket fd=812, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49872)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49872, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_CACHE_CONTROL': 'max-age=0', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:20:05 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:05 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:05 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 17:20:05 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 17:20:05 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 17:20:05 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 17:20:05 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:05 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:05 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 17:20:05 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 17:20:05 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269
+2024-06-24 17:20:08 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control:max-age=0 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2124>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B19C24C0>, 'werkzeug.socket': <socket.socket fd=2124, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49881)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49881, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_CACHE_CONTROL': 'max-age=0', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:20:08 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:08 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:08 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 17:20:08 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 17:20:08 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 17:20:08 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 17:20:08 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:08 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:08 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 17:20:08 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 17:20:08 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269
+2024-06-24 17:20:12 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2380>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975DC0>, 'werkzeug.socket': <socket.socket fd=2380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49890)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49890, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_SEC_PURPOSE': 'prefetch;prerender', 'HTTP_PURPOSE': 'prefetch', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:20:12 INFO: step 01: token_required:True without Token
+2024-06-24 17:20:12 INFO: myhost : http://10.56.133.132:8060/account/
+2024-06-24 17:20:12 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-06-24 17:20:13 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2196>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975EE0>, 'werkzeug.socket': <socket.socket fd=2196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49891)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49891, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:20:13 INFO: step 01: token_required:True without Token
+2024-06-24 17:20:13 INFO: myhost : http://10.56.133.132:8060/account/
+2024-06-24 17:20:13 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-06-24 17:20:13 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b1-4beb-9194-15fd269
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2128>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000261B1975C10>, 'werkzeug.socket': <socket.socket fd=2128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 49895)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REQUEST_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RAW_URI': '/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 49895, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b1-4beb-9194-15fd269', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=ec5e8e7e-00b1-4beb-9194-15fd269a0c84' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b1-4beb-9194-15fd269')])
+                       content_encoding:None
+                        
+2024-06-24 17:20:13 INFO: step 02: token_required:True with Token ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:13 INFO: Use sso v4/cert_key: ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+2024-06-24 17:20:13 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+
+2024-06-24 17:20:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ec5e8e7e-00b1-4beb-9194-15fd269a0c84', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-06-24 17:20:13 INFO: Set cache key: b1-4beb-9194-15fd269
+2024-06-24 17:20:13 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-06-24 17:20:13 INFO: Get cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:13 INFO: Set cache key: session_api_account@QS.CHOU
+2024-06-24 17:20:13 DEBUG: Set cache value: {"sess_key": "b1-4beb-9194-15fd269", "emp_id": "10136399"}
+2024-06-24 17:20:13 INFO: validate_user step 2: token:ec5e8e7e-00b1-4beb-9194-15fd269a0c84
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b1-4beb-9194-15fd269 
+2024-06-24 17:20:13 INFO: End of validate user: user_id: QS.CHOU / sess_key:b1-4beb-9194-15fd269

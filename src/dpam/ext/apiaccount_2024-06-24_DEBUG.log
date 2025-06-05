@@ -1,0 +1,73 @@
+2024-06-24 16:06:42 INFO: Begin Enquiry Client Info from clientid mfg
+2024-06-24 16:15:44 INFO: Begin Enquiry Client Info from clientid mfg
+2024-06-24 16:15:44 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2030-12-31"
+permission: "QUERY"
+ from server10.53.200.183:34072 End
+2024-06-24 16:15:59 INFO: Begin Request APIKey from clientid IamWrongClient
+2024-06-24 16:15:59 INFO: Response clientid: "IamWrongClient"
+expiry: "1900-01-01"
+ from server 10.53.200.183:34072 End
+2024-06-24 16:16:13 INFO: Begin Request APIKey from clientid mfg
+2024-06-24 16:36:37 INFO: Begin Request APIKey from clientid mfg
+2024-06-24 16:36:37 INFO: Response clientid: "mfg"
+apikey: "97740468-cc71-313c-95f4-6cd7cbd53219"
+expiry: "24"
+ from server 10.53.200.183:34072 End
+2024-06-24 16:38:30 INFO: Begin Enquiry Client Info from clientid mfg
+2024-06-24 16:38:30 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2030-12-31"
+permission: "QUERY"
+ from server10.53.200.183:34072 End
+2024-06-24 16:38:47 INFO: Begin Request APIKey from clientid mfg
+2024-06-24 16:38:47 INFO: Response clientid: "mfg"
+apikey: "97740468-cc71-313c-95f4-6cd7cbd53219"
+expiry: "24"
+ from server 10.53.200.183:34072 End
+2024-06-24 16:39:06 INFO: Begin verified API Key by token 97740468-cc71-313c-95f4-6cd7cbd53219
+2024-06-24 16:39:06 INFO: Response apikey: "97740468-cc71-313c-95f4-6cd7cbd53219"
+assertion: "mfg:QUERY:/mfg"
+ from server 10.53.200.183:34072 End
+2024-06-24 16:40:11 INFO: Set cache key: 12345678
+2024-06-24 16:40:11 DEBUG: Set cache value: {"user_id": "qs.chou", "emp_id": "10135399"}
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 DEBUG: Set cache value: {"sess_key": "12345678", "emp_id": "10135399"}
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 DEBUG: Set cache value: {"sess_key": "12345678", "emp_id": "10135399", "ext_info": "a super user"}
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 INFO: Set cache key: abcdefg
+2024-06-24 16:40:11 DEBUG: Set cache value: {"user_id": "qs.chou", "emp_id": "10135399"}
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:40:11 DEBUG: Set cache value: {"sess_key": "abcdefg", "emp_id": "10135399"}
+2024-06-24 16:40:11 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:42:21 INFO: Set cache key: 12345678
+2024-06-24 16:42:21 DEBUG: Set cache value: {"user_id": "qs.chou", "emp_id": "10135399"}
+2024-06-24 16:42:21 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:42:21 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:42:21 DEBUG: Set cache value: {"sess_key": "12345678", "emp_id": "10135399"}
+2024-06-24 16:42:44 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:43:14 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:43:14 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:43:14 DEBUG: Set cache value: {"sess_key": "12345678", "emp_id": "10135399", "ext_info": "a super user"}
+2024-06-24 16:43:24 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:44:05 INFO: Set cache key: abcdefg
+2024-06-24 16:44:05 DEBUG: Set cache value: {"user_id": "qs.chou", "emp_id": "10135399"}
+2024-06-24 16:44:05 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:44:05 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:44:05 DEBUG: Set cache value: {"sess_key": "abcdefg", "emp_id": "10135399"}
+2024-06-24 16:44:15 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:45:03 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:45:18 INFO: Set cache key: abcdefg
+2024-06-24 16:45:18 DEBUG: Set cache value: {"user_id": "qs.chou", "emp_id": "10135399"}
+2024-06-24 16:45:18 INFO: Get cache key: session_api_account@qs.chou
+2024-06-24 16:45:18 INFO: Set cache key: session_api_account@qs.chou
+2024-06-24 16:45:18 DEBUG: Set cache value: {"sess_key": "abcdefg", "emp_id": "10135399"}
+2024-06-24 16:45:23 INFO: Get cache key: session_api_account@qs.chou

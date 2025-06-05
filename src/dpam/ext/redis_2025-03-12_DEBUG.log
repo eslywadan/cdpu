@@ -1,0 +1,71 @@
+2025-03-12 09:41:04 INFO: step 01: token_required:True without Token
+2025-03-12 09:41:04 INFO: myhost : https://127.0.0.1:18443/account/
+2025-03-12 09:41:04 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=https://127.0.0.1:18443/account/
+2025-03-12 09:41:05 INFO: step 02: token_required:True with Token 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:41:05 INFO: Use sso v4/cert_key: 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:41:05 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+
+2025-03-12 09:41:05 INFO: response ticket: {'MemID': '10136399', 'MemName': '周崑水', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '641a3a76-ff2e-43e0-9f97-c5f31d16a0b4', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-12 09:41:05 INFO: Set cache key: 2e-43e0-9f97-c5f31d1
+2025-03-12 09:41:05 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-12 09:41:05 DEBUG: Get cache key: session_api_account@QS.CHOU
+2025-03-12 09:41:05 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-12 09:41:05 DEBUG: Set cache value: {"sess_key": "2e-43e0-9f97-c5f31d1", "emp_id": "10136399"}
+2025-03-12 09:41:05 INFO: validate_user step 2: token:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2e-43e0-9f97-c5f31d1 
+2025-03-12 09:41:05 INFO: End of validate user: user_id: QS.CHOU / sess_key:2e-43e0-9f97-c5f31d1
+2025-03-12 09:42:24 INFO: step 02: token_required:True with Token 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:42:24 INFO: Use sso v4/cert_key: 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:42:24 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+
+2025-03-12 09:42:24 INFO: response ticket: {'MemID': '10136399', 'MemName': '周崑水', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '641a3a76-ff2e-43e0-9f97-c5f31d16a0b4', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-12 09:42:24 INFO: Set cache key: 2e-43e0-9f97-c5f31d1
+2025-03-12 09:42:24 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-12 09:42:24 DEBUG: Get cache key: session_api_account@QS.CHOU
+2025-03-12 09:42:24 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-12 09:42:24 DEBUG: Set cache value: {"sess_key": "2e-43e0-9f97-c5f31d1", "emp_id": "10136399"}
+2025-03-12 09:42:24 INFO: validate_user step 2: token:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2e-43e0-9f97-c5f31d1 
+2025-03-12 09:42:24 INFO: End of validate user: user_id: QS.CHOU / sess_key:2e-43e0-9f97-c5f31d1
+2025-03-12 09:42:29 INFO: step 02: token_required:True with Token 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:42:29 INFO: Use sso v4/cert_key: 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 09:42:29 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+
+2025-03-12 09:42:29 INFO: response ticket: {'MemID': '10136399', 'MemName': '周崑水', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '641a3a76-ff2e-43e0-9f97-c5f31d16a0b4', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-12 09:42:29 INFO: Set cache key: 2e-43e0-9f97-c5f31d1
+2025-03-12 09:42:29 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-12 09:42:29 DEBUG: Get cache key: session_api_account@QS.CHOU
+2025-03-12 09:42:29 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-12 09:42:29 DEBUG: Set cache value: {"sess_key": "2e-43e0-9f97-c5f31d1", "emp_id": "10136399"}
+2025-03-12 09:42:29 INFO: validate_user step 2: token:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2e-43e0-9f97-c5f31d1 
+2025-03-12 09:42:29 INFO: End of validate user: user_id: QS.CHOU / sess_key:2e-43e0-9f97-c5f31d1
+2025-03-12 15:37:17 INFO: step 02: token_required:True with Token 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 15:37:17 INFO: Use sso v4/cert_key: 641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+2025-03-12 15:37:17 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+
+2025-03-12 15:37:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '周崑水', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '641a3a76-ff2e-43e0-9f97-c5f31d16a0b4', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-12 15:37:17 INFO: Set cache key: 2e-43e0-9f97-c5f31d1
+2025-03-12 15:37:17 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-12 15:37:18 DEBUG: Get cache key: session_api_account@QS.CHOU
+2025-03-12 15:37:18 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-12 15:37:18 DEBUG: Set cache value: {"sess_key": "2e-43e0-9f97-c5f31d1", "emp_id": "10136399"}
+2025-03-12 15:37:18 INFO: validate_user step 2: token:641a3a76-ff2e-43e0-9f97-c5f31d16a0b4
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 2e-43e0-9f97-c5f31d1 
+2025-03-12 15:37:18 INFO: End of validate user: user_id: QS.CHOU / sess_key:2e-43e0-9f97-c5f31d1

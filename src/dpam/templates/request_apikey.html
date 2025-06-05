@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>API Client Account - Request API Key</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</head>
+
+<body>
+    <h2>Request API Key</h2>
+
+
+    <form style="padding-left:100px;padding-top:40px;width:400px;" action="{{ url_for('acct_bp.grpc_get_apikey') }}" method="POST">
+        <div class="form-group">
+            <label for="txt_client_id">Client ID</label>
+            <input name="txt_client_id" id="txt_client_id" class="form-control" readonly value="{{ client_id }}">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_password">Password</label>
+            <input name="txt_password" id="txt_password" class="form-control" type="password">
+        </div>
+
+        <div style="color:red;">{{error}}</div>
+
+        <input type="submit" class="btn btn-outline-info" value="Request API Key">
+        <button type="button" class="btn btn-outline-info" onclick="window.location.href = '{{ list_page }}';"> Cancel
+        </button>
+
+    </form>
+    {% if apikey != "" %}
+    <form style="padding-left:100px;padding-top:40px;width:400px;">
+        <div class="form-group">
+            <label for="txt_apikey">API Key</label>
+            <input name="txt_apikey" id="txt_apikey" class="form-control" readonly value="{{ apikey }}">
+        </div>
+        <button type="button" class="btn btn-outline-info" onclick="copyToClipboard()"> Copy </button>
+    </form>
+    {% endif %}
+    <script>
+        function copyToClipboard() {
+            /* Get the text field */
+            var copyText = document.getElementById("txt_apikey");
+
+             /* Select the text field */
+            copyText.select();
+            textToCopy = copyText.value; /* For mobile devices */
+           
+            // navigator clipboard api needs a secure context (https)
+            if (navigator.clipboard && window.isSecureContext) {
+                // navigator clipboard api method'
+                return navigator.clipboard.writeText(textToCopy);
+            } else {
+                // text area method
+                let textArea = document.createElement("textarea");
+                textArea.value = textToCopy;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                textArea.remove();
+            }
+        }
+    </script>
+</body>
+
+</html>

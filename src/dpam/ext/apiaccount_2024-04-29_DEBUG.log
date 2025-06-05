@@ -1,0 +1,2380 @@
+2024-04-29 08:40:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 08:40:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:01:19 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:01:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:02:13 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:02:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:02:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:09:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:09:42 INFO: user_id: None / sess_key:None
+2024-04-29 09:09:44 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:09:44 INFO: user_id: None / sess_key:None
+2024-04-29 09:09:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:09:59 INFO: user_id: None / sess_key:None
+2024-04-29 09:10:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:10:00 INFO: user_id: None / sess_key:None
+2024-04-29 09:12:20 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:12:20 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:12:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:12:21 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:38 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:38 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:46 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:46 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:46 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:46 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:46 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:46 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:47 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:47 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:47 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:47 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:47 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:47 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:47 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:47 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:47 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:47 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:47 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:47 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:47 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:47 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:47 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:48 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:48 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:27:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:27:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:27:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:28:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:28:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:28:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http%3A%2F%2F10.56.133.132%3A8060%2Faccount%2Fssov4
+2024-04-29 09:30:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:49 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:49 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:49 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:50 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:50 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:51 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:51 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:51 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:52 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:52 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:52 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:30:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:30:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:30:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:04 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:04 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:04 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:05 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:05 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:05 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:05 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:05 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:05 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:39 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:39 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:31:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:31:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:31:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:40 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:40 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:40 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:41 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:41 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:42 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:42 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:32:43 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:32:43 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:32:43 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:21 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:21 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:21 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:21 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:22 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:22 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:22 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:22 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:22 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:22 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:22 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:22 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:22 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:22 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:23 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:23 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:23 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:24 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:24 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:24 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:25 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:25 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:26 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:26 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:26 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:27 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:27 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:27 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:27 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:27 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:27 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:27 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:27 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:27 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:27 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:27 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:27 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:34 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:34 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:34 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:35 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:35 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:36 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:36 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:36 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:37 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:37 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:37 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:37 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:37 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:37 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:37 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:38 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:38 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:38 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:38 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:38 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:38 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:40:38 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:40:38 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:40:38 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:03 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:03 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:09 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:09 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:09 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:10 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:10 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:10 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:11 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:11 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:11 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:12 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:12 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:12 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:43:12 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:43:12 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:43:12 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:27 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:27 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:27 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:30 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:30 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:30 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:31 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:31 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:31 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:32 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:32 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:32 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:33 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:33 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 09:44:33 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 09:44:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 09:44:54 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 09:44:54 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 09:44:54 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:32:48 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:32:49 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:32:49 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:32:49 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:34:25 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:34:25 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:34:25 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:34:25 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:37:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:37:22 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:37:22 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:37:22 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:39:22 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:39:22 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:39:22 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:39:22 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:40:13 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:40:13 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:40:13 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:40:13 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:40:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 10:42:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:42:42 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:42:42 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:42:43 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:42:43 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 10:43:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:43:28 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:43:28 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:43:28 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:43:28 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 10:45:17 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:17 INFO: sso use v4, cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:45:17 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 10:45:17 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 10:45:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 10:45:17 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 10:45:17 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 10:45:17 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 10:45:53 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:53 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:53 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:54 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:54 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:54 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:55 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:55 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:55 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:56 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:56 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:56 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:57 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:57 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:57 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:45:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:45:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:45:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:58 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:58 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:58 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:58 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:58 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:59 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:59 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:59 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:59 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 10:59:59 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 10:59:59 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 10:59:59 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 10:59:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:00 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:00 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:00 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:00 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:00 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:00 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:00 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:00 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:01 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:01 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:02 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:02 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:02 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:02 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:00:02 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:00:02 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:00:02 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:00:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:04:41 INFO: request.args: ImmutableMultiDict([('CertificateKey', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:04:41 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:05:29 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:05:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:05:29 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:05:29 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:05:29 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:05:29 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:05:29 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:05:29 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:05:39 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:05:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:05:39 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:05:39 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:11:21 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:11:21 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:11:21 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:11:21 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:11:21 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:11:21 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:11:21 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:11:21 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:11:28 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:11:28 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:11:28 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:11:28 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:11:29 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:11:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:11:29 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:11:29 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:11:29 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:11:29 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:11:29 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:11:29 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:11:29 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:11:29 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:11:29 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:11:29 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:12:13 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:12:13 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:12:13 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:12:13 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:12:14 INFO: request.args: ImmutableMultiDict([])
+2024-04-29 11:12:14 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:12:14 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:12:14 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:12:14 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:12:14 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:12:14 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:12:14 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:12:14 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:12:14 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:12:14 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:12:14 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:18:01 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:18:01 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:18:01 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:18:01 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:18:01 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:18:01 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:18:01 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:18:01 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:18:03 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:18:03 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:18:03 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:18:03 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:18:03 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:18:03 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:18:03 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:18:03 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:31:12 INFO: request.args: ImmutableMultiDict([('CertificateKey', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:31:12 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:31:12 INFO: End of validate user: user_id: None / sess_key:None
+2024-04-29 11:31:12 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/ssov4
+2024-04-29 11:31:12 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:31:12 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:31:12 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:31:12 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:31:12 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:31:12 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:31:12 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:31:12 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-04-29 11:31:17 INFO: request.args: ImmutableMultiDict([('Token', '08f734b7-a041-47ad-bea2-4ce26a23dcd5')])
+2024-04-29 11:31:17 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: None 
+ 
+2024-04-29 11:31:17 INFO: Use sso v4:v4/cert_key: 08f734b7-a041-47ad-bea2-4ce26a23dcd5
+2024-04-29 11:31:17 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+
+2024-04-29 11:31:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '08f734b7-a041-47ad-bea2-4ce26a23dcd5', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-04-29 11:31:17 INFO: validate_user step 2: cert_key:08f734b7-a041-47ad-bea2-4ce26a23dcd5
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 41-47ad-bea2-4ce26a2 
+2024-04-29 11:31:17 INFO: End of validate user: user_id: QS.CHOU / sess_key:41-47ad-bea2-4ce26a2
+2024-04-29 11:31:17 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>

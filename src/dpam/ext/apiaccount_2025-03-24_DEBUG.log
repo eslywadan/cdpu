@@ -1,0 +1,44 @@
+2025-03-24 11:19:49 INFO: Begin verified API Key by token 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:19:49 INFO: Response apikey: "04fecfdb-86ac-3685-b6ca-269adb9d9ee9"
+assertion: "False"
+ from server 10.53.200.183:34072 End
+2025-03-24 11:21:32 INFO: Begin verified API Key by token 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:24:52 INFO: Begin verified API Key by token 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:24:52 INFO: Response apikey: "04fecfdb-86ac-3685-b6ca-269adb9d9ee9"
+assertion: "False"
+ from server 10.53.200.183:34072 End
+2025-03-24 11:24:55 INFO: Begin verified API Key by token 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:24:55 INFO: Response apikey: "04fecfdb-86ac-3685-b6ca-269adb9d9ee9"
+assertion: "False"
+ from server 10.53.200.183:34072 End
+2025-03-24 11:24:56 INFO: Begin verified API Key by token 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 11:24:57 INFO: Response apikey: "04fecfdb-86ac-3685-b6ca-269adb9d9ee9"
+assertion: "False"
+ from server 10.53.200.183:34072 End
+2025-03-24 14:23:55 INFO: apds requestes apikey pass password checked True
+2025-03-24 14:23:55 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:23:55 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:23:55 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:25:29 INFO: apds requestes apikey pass password checked True
+2025-03-24 14:25:29 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:25:29 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:25:29 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:25:47 INFO: apds requestes apikey pass password checked True
+2025-03-24 14:25:47 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:25:47 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:25:47 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:28:37 INFO: apds requestes apikey pass password checked True
+2025-03-24 14:28:37 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:28:37 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:28:37 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:28:37 INFO: apds requestes apikey genereated and cahced at 10.53.200.183:35259
+2025-03-24 14:29:28 INFO: 2.Client info: {'CLIENT_ID': {0: 'apds'}, 'PASSWORD': {0: 'e5af02b19f80c9d104f0b7718f6c2794a53c5e86'}, 'TYPE': {0: 2}, 'EXPIRY': {0: '2030-12-31'}, 'REGISTRY': {0: '/carux/apds'}, 'PERMISSION': {0: 'QUERY'}}
+2025-03-24 14:29:28 INFO: apds requestes apikey required password checked False
+2025-03-24 14:29:33 INFO: 2.Client info: {'CLIENT_ID': {0: 'apds'}, 'PASSWORD': {0: 'e5af02b19f80c9d104f0b7718f6c2794a53c5e86'}, 'TYPE': {0: 2}, 'EXPIRY': {0: '2030-12-31'}, 'REGISTRY': {0: '/carux/apds'}, 'PERMISSION': {0: 'QUERY'}}
+2025-03-24 14:29:33 INFO: apds requestes apikey required password checked True
+2025-03-24 14:29:33 INFO: apds requestes apikey not expiry checked True
+2025-03-24 14:29:33 INFO: Set cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:29:33 DEBUG: Set cache value: apds:QUERY:/carux/apds
+2025-03-24 14:29:33 INFO: apds requestes apikey genereated and cahced at 10.53.200.183:35259
+2025-03-24 14:30:15 INFO: Get cache key: 04fecfdb-86ac-3685-b6ca-269adb9d9ee9
+2025-03-24 14:30:15 INFO: Issue request: @apds 04fecfdb-86ac-3685-b6ca-269adb9d9ee9 /carux/apds

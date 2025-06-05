@@ -1,0 +1,45 @@
+2022-06-21 08:19:16 INFO: Begin Enquiry Client Info from clientid mfg
+2022-06-21 08:19:18 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from serverlocalhost:23334 End
+2022-06-21 08:19:18 INFO: Begin Request APIKey from clientid IamWrongClient
+2022-06-21 08:19:19 INFO: Response clientid: "IamWrongClient"
+expiry: "1900-01-01"
+ from server localhost:23334 End
+2022-06-21 08:19:19 INFO: Begin Request APIKey from clientid mfg
+2022-06-21 08:19:19 INFO: Response clientid: "mfg"
+apikey: "5f69de7a-08a0-3180-a292-0f066012eac7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-21 08:19:19 INFO: Begin verified API Key by token 5f69de7a-08a0-3180-a292-0f066012eac7
+2022-06-21 08:19:20 INFO: Response apikey: "5f69de7a-08a0-3180-a292-0f066012eac7"
+assertion: "mfg:QUERY:/mfg"
+ from server localhost:23334 End
+2022-06-21 08:19:20 INFO: Begin Request APIKey from clientid eng
+2022-06-21 08:19:20 INFO: Response clientid: "eng"
+apikey: "7d67ae48-cd39-38e4-8f6e-a59721ba7b00"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-21 08:19:20 INFO: Begin verified API Key by token 7d67ae48-cd39-38e4-8f6e-a59721ba7b00
+2022-06-21 08:19:20 INFO: Response apikey: "7d67ae48-cd39-38e4-8f6e-a59721ba7b00"
+assertion: "eng:QUERY:/eng"
+ from server localhost:23334 End
+2022-06-21 08:19:20 INFO: Begin Enquiry Client Info from clientid mfg
+2022-06-21 08:19:25 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from serverlocalhost:23334 End
+2022-06-21 08:19:25 INFO: Begin Request APIKey from clientid mfg
+2022-06-21 08:19:25 INFO: Response clientid: "mfg"
+apikey: "5f69de7a-08a0-3180-a292-0f066012eac7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-21 08:19:25 INFO: Begin verified API Key by token 5f69de7a-08a0-3180-a292-0f066012eac7
+2022-06-21 08:19:25 INFO: Response apikey: "5f69de7a-08a0-3180-a292-0f066012eac7"
+assertion: "mfg:QUERY:/mfg"
+ from server localhost:23334 End

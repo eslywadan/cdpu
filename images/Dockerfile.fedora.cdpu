@@ -1,0 +1,12 @@
+FROM irepocld.cminl.oa/datastudio-ci-dev/python:fedora02
+
+# Set working directory
+WORKDIR /app
+
+# install required modules and cdpu package
+COPY requirements.txt .
+COPY packages/dsbase-250425.171648-py3-none-any.whl .
+COPY packages/cdpu-250604.155114-py3-none-any.whl .
+RUN pip3 install --no-cache-dir -r requirements.txt
+RUN pip3 install dsbase-250425.171648-py3-none-any.whl
+RUN pip3 install cdpu-250604.155114-py3-none-any.whl

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>API Client Account - Create Account</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</head>
+<body>
+    <h2>Create API Client Account</h2>
+
+    <form style="padding-left:100px;padding-top:40px;width:400px;" action="{{ url_for('acct_bp.insert_account') }}" method="POST">
+        <div class="form-group">
+            <label for="txt_client_id">Client ID</label>
+            <input name="txt_client_id" id="txt_client_id" class="form-control" aria-describedby="txt_client_id_help" value="{{ client_id }}">
+            <small id="txt_client_id_help" class="form-text text-muted">幫你自己，或是使用API的Application，取一個ID</small>
+        </div>
+
+        <div class="form-group">
+            <label for="txt_password">Password</label>
+            <input name="txt_password" id="txt_password" class="form-control" type="password">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_password2">Confirm Password</label>
+            <input name="txt_password2" id="txt_password2" class="form-control" type="password">
+        </div>
+
+        <div class="form-group">
+            <label for="txt_user_id">Owner User ID</label>
+            <input name="txt_user_id" id="txt_user_id" class="form-control" readonly value="{{ user_id }}">
+        </div>
+
+        <div style="color:red;">{{error}}</div>
+
+        <input type="submit" class="btn btn-outline-info" value="Create Account">
+        <button type="button" class="btn btn-outline-info" onclick="window.location.href = '{{ list_page }}';"> Cancel </button>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> "{{user_id}}"</title>    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://tsamv4athe.cminl.oa/js/inxssov4.js"></script>
+</head>
+<body>
+    <input id="btnGetUser" type="button" value="GetUserInfo" />
+    <input id="btnLogout" type="button" value="Logout" />
+    <div id="divMain">
+    </div>
+    <script>
+        var gMain = {};
+        (function (window, undefined) {
+            $(function () {
+                init();
+            });
+            function init() {
+                const userid = "{{user_id}}";
+                $("#btnGetUser").click(function () {
+                    InxSSO.getUserInfo(setUserInfo,false,"datastudio");
+                });      
+                $("#btnLogout").click(function () {
+                    InxSSO.logout(null,true,"datastudio");
+                });
+                $("#divUserID").text("Hello");
+                InxSSO.getUserInfo(setUserInfo,false,"datastudio");
+            }
+
+            function setUserInfo(userInfo) {
+                gMain.UserInfo = userInfo;
+                console.log('gMain.Userinfo', gMain.UserInfo);
+                var s = "<strong>" + JSON.stringify(gMain.UserInfo) + "</strong>";
+                $("#divMain").append(s);
+            }
+        })(window);
+    </script>
+</body>
+</html>

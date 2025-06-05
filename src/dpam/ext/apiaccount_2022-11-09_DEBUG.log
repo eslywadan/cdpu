@@ -1,0 +1,98 @@
+2022-11-09 09:17:11 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:17:12 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from server10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin Request APIKey from clientid IamWrongClient
+2022-11-09 09:17:12 INFO: Response clientid: "IamWrongClient"
+expiry: "1900-01-01"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin Request APIKey from clientid mfg
+2022-11-09 09:17:12 INFO: Response clientid: "mfg"
+apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+expiry: "24"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin verified API Key by token 5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b
+2022-11-09 09:17:12 INFO: Response apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+assertion: "mfg:QUERY:/mfg"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin Request APIKey from clientid eng
+2022-11-09 09:17:12 INFO: Response clientid: "eng"
+apikey: "9e22d27f-87fd-3ea1-af97-9358a2939317"
+expiry: "24"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin verified API Key by token 9e22d27f-87fd-3ea1-af97-9358a2939317
+2022-11-09 09:17:12 INFO: Response apikey: "9e22d27f-87fd-3ea1-af97-9358a2939317"
+assertion: "eng:QUERY:/eng"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:17:12 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from server10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin Request APIKey from clientid mfg
+2022-11-09 09:17:12 INFO: Response clientid: "mfg"
+apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+expiry: "24"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:17:12 INFO: Begin verified API Key by token 5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b
+2022-11-09 09:17:12 INFO: Response apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+assertion: "mfg:QUERY:/mfg"
+ from server 10.53.200.104:33132 End
+2022-11-09 09:23:28 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:23:31 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:23:33 INFO: Begin Request APIKey from clientid mfg
+2022-11-09 09:37:29 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:37:29 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from server10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin Request APIKey from clientid IamWrongClient
+2022-11-09 09:37:29 INFO: Response clientid: "IamWrongClient"
+expiry: "1900-01-01"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin Request APIKey from clientid mfg
+2022-11-09 09:37:29 INFO: Response clientid: "mfg"
+apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+expiry: "24"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin verified API Key by token 5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b
+2022-11-09 09:37:29 INFO: Response apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+assertion: "mfg:QUERY:/mfg"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin Request APIKey from clientid eng
+2022-11-09 09:37:29 INFO: Response clientid: "eng"
+apikey: "9e22d27f-87fd-3ea1-af97-9358a2939317"
+expiry: "24"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin verified API Key by token 9e22d27f-87fd-3ea1-af97-9358a2939317
+2022-11-09 09:37:29 INFO: Response apikey: "9e22d27f-87fd-3ea1-af97-9358a2939317"
+assertion: "eng:QUERY:/eng"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin Enquiry Client Info from clientid mfg
+2022-11-09 09:37:29 INFO: response clientid: "mfg"
+password: "28bfd0031d38c6100a0491cf5b18fa6ef861002d"
+type: 2
+expiry: "2029/12/31"
+permission: "QUERY"
+ from server10.55.8.214:6684 End
+2022-11-09 09:37:29 INFO: Begin Request APIKey from clientid mfg
+2022-11-09 09:37:30 INFO: Response clientid: "mfg"
+apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+expiry: "24"
+ from server 10.55.8.214:6684 End
+2022-11-09 09:37:30 INFO: Begin verified API Key by token 5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b
+2022-11-09 09:37:30 INFO: Response apikey: "5c71ff4e-9ecf-3bf2-ae15-87b67c5d146b"
+assertion: "mfg:QUERY:/mfg"
+ from server 10.55.8.214:6684 End
+2022-11-09 10:33:09 INFO: Begin Request APIKey from clientid eng
+2022-11-09 10:33:09 INFO: Response clientid: "eng"
+apikey: "9e22d27f-87fd-3ea1-af97-9358a2939317"
+expiry: "24"
+ from server 10.55.8.214:6684 End

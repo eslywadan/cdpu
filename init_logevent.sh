@@ -1,0 +1,1 @@
+gunicorn --bind 0.0.0.0:8080 dpam.acctclog:app --log-file /app/ext/gunicorn.log --timeout 900

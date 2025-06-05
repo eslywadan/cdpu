@@ -1,0 +1,29 @@
+2022-07-28 08:59:47 INFO: Get cache key: 1
+2022-07-28 09:03:44 INFO: Get cache key: a5c495ee-4d02-337d-9d78-c626913eb27d
+2022-07-28 09:05:13 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:06:01 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:15:28 INFO: Begin verified API Key by token a5c495ee-4d02-337d-9d78-c626913eb27d
+2022-07-28 09:15:28 INFO: Response apikey: "a5c495ee-4d02-337d-9d78-c626913eb27d"
+assertion: "mfg:QUERY:/mfg"
+ from server localhost:23335 End
+2022-07-28 09:30:03 INFO: Begin verified API Key by token 4f1b5777-6b1f-3d96-9ec6-d9c994da308c
+2022-07-28 09:30:03 INFO: Response apikey: "4f1b5777-6b1f-3d96-9ec6-d9c994da308c"
+assertion: "mfg:QUERY:/mfg"
+ from server localhost:23335 End
+2022-07-28 09:35:31 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:41:36 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:57:11 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:57:12 INFO: Response clientid: "mfg"
+apikey: "4f1b5777-6b1f-3d96-9ec6-d9c994da308c"
+expiry: "24"
+ from server localhost:23335 End
+2022-07-28 09:57:40 INFO: Begin Request APIKey from clientid mfg
+2022-07-28 09:57:40 INFO: Response clientid: "mfg"
+apikey: "4f1b5777-6b1f-3d96-9ec6-d9c994da308c"
+expiry: "24"
+ from server localhost:23335 End
+2022-07-28 09:58:12 INFO: Begin Request APIKey from clientid eng
+2022-07-28 09:58:12 INFO: Response clientid: "eng"
+apikey: "548bb5cc-d6ab-32bd-b244-1c861b0193b4"
+expiry: "24"
+ from server localhost:23335 End

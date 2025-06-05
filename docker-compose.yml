@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  dataapiaccount:
+    image: dataapiaccount:v1singleextpath
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - D:\DockerRun\dataapiaccount\:/app/ext
+    ports:
+      - "3400:3400"

@@ -1,0 +1,15 @@
+2022-08-03 14:21:49 INFO: Begin Request APIKey from clientid ds_test
+2022-08-03 14:21:53 INFO: Begin Request APIKey from clientid ds_test
+2022-08-03 14:21:54 INFO: Response clientid: "ds_test"
+apikey: "b50e7363-c901-343b-8b3a-4e03a1d26290"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-03 14:21:54 INFO: Response clientid: "ds_test"
+apikey: "b50e7363-c901-343b-8b3a-4e03a1d26290"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-03 14:22:10 INFO: Begin Request APIKey from clientid ds_test
+2022-08-03 14:22:10 INFO: Response clientid: "ds_test"
+apikey: "b50e7363-c901-343b-8b3a-4e03a1d26290"
+expiry: "24"
+ from server localhost:23335 End

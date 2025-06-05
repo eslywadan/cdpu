@@ -1,0 +1,605 @@
+2024-08-15 15:00:30 INFO: step 01: token_required:True without Token
+2024-08-15 15:00:30 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:00:30 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:00:30 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:30 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:30 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:00:30 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:00:30 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:00:30 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:00:42 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:42 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:42 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:00:42 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:00:42 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:00:42 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:00:43 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:43 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:00:43 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:00:43 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:00:43 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:00:43 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:02:16 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:16 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:16 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:02:16 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:02:16 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:02:16 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:02:18 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:18 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:18 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:02:18 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:02:18 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:02:18 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:02:19 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:19 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:19 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:02:19 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:02:19 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:02:19 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:02:20 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:20 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:20 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:02:20 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:02:20 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:02:20 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:02:24 INFO: step 01: token_required:True without Token
+2024-08-15 15:02:24 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:02:24 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:02:24 INFO: step 01: token_required:True without Token
+2024-08-15 15:02:24 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:02:24 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:02:25 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:25 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:02:25 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:02:25 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:02:25 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:02:25 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:03:00 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:03:00 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:03:00 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:03:00 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:03:00 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:03:00 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:03:04 INFO: step 01: token_required:True without Token
+2024-08-15 15:03:04 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:03:04 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:03:05 INFO: step 01: token_required:True without Token
+2024-08-15 15:03:05 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:03:05 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:03:05 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:03:05 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:03:05 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:03:05 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:03:05 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:03:05 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:06:04 INFO: step 01: token_required:True without Token
+2024-08-15 15:06:04 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:06:04 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:06:05 INFO: step 01: token_required:True without Token
+2024-08-15 15:06:05 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:06:05 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:06:06 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:06:06 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:06:06 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:06:06 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:06:06 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:06:06 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:06:13 INFO: step 01: token_required:True without Token
+2024-08-15 15:06:13 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:06:13 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:06:13 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:06:13 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:06:13 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:06:13 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:06:13 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:06:13 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:07:02 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=23-4dff-8e99-eb10aeb
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=484>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000270C70E5CA0>, 'werkzeug.socket': <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54259)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54259, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_SEC_PURPOSE': 'prefetch;prerender', 'HTTP_PURPOSE': 'prefetch', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=23-4dff-8e99-eb10aeb', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', '23-4dff-8e99-eb10aeb')])
+                       content_encoding:None
+                        
+2024-08-15 15:07:02 INFO: step 01: token_required:True without Token
+2024-08-15 15:07:02 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:07:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:07:02 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=23-4dff-8e99-eb10aeb
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1724>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000270C70E5A60>, 'werkzeug.socket': <socket.socket fd=1724, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54258)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54258, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=23-4dff-8e99-eb10aeb', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', '23-4dff-8e99-eb10aeb')])
+                       content_encoding:None
+                        
+2024-08-15 15:07:02 INFO: step 01: token_required:True without Token
+2024-08-15 15:07:02 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:07:02 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:07:03 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', '65b90af4-53b2-4511-8587-256298a2dd8e')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=23-4dff-8e99-eb10aeb
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2036>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000270C70E5D30>, 'werkzeug.socket': <socket.socket fd=2036, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54267)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'REQUEST_URI': '/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'RAW_URI': '/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54267, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=23-4dff-8e99-eb10aeb', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', '23-4dff-8e99-eb10aeb')])
+                       content_encoding:None
+                        
+2024-08-15 15:07:03 INFO: step 02: token_required:True with Token 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:07:03 INFO: Use sso v4/cert_key: 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:07:03 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:65b90af4-53b2-4511-8587-256298a2dd8e
+
+2024-08-15 15:07:03 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '65b90af4-53b2-4511-8587-256298a2dd8e', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SAMV4'}
+2024-08-15 15:07:03 INFO: Set cache key: b2-4511-8587-256298a
+2024-08-15 15:07:03 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:07:03 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:07:03 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:07:03 DEBUG: Set cache value: {"sess_key": "b2-4511-8587-256298a", "emp_id": "10136399"}
+2024-08-15 15:07:03 INFO: validate_user step 2: token:65b90af4-53b2-4511-8587-256298a2dd8e
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b2-4511-8587-256298a 
+2024-08-15 15:07:03 INFO: End of validate user: user_id: QS.CHOU / sess_key:b2-4511-8587-256298a
+2024-08-15 15:07:14 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/accounts_for_owner 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.56.133.132:8060/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b2-4511-8587-256298a
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=2004>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x00000270C70E5C10>, 'werkzeug.socket': <socket.socket fd=2004, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54284)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/accounts_for_owner', 'QUERY_STRING': '', 'REQUEST_URI': '/account/accounts_for_owner', 'RAW_URI': '/account/accounts_for_owner', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54284, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://10.56.133.132:8060/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b2-4511-8587-256298a', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/accounts_for_owner' [GET]>} 
+                       endpoint:acct_bp.browse_owner_accounts
+                       cookies :ImmutableMultiDict([('session_api_account', 'b2-4511-8587-256298a')])
+                       content_encoding:None
+                        
+2024-08-15 15:07:14 INFO: step 03: token_required:False sess_key: b2-4511-8587-256298a
+2024-08-15 15:07:14 INFO: step 03-2 sess_key: b2-4511-8587-256298a / user_id: QS.CHOU
+2024-08-15 15:07:14 INFO: step 03-3 sess_key: b2-4511-8587-256298a / user_id: QS.CHOU
+2024-08-15 15:07:14 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: b2-4511-8587-256298a 
+ 
+2024-08-15 15:07:14 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-08-15 15:10:36 INFO: step 01: token_required:True without Token
+2024-08-15 15:10:36 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:10:36 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:10:37 INFO: step 01: token_required:True without Token
+2024-08-15 15:10:37 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:10:37 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:10:38 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:10:38 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:10:38 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:10:38 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:10:38 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:10:38 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:13:34 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:13:34 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:13:34 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:13:34 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:13:34 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:13:34 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:13:39 INFO: step 01: token_required:True without Token
+2024-08-15 15:13:39 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:13:39 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:13:39 INFO: step 01: token_required:True without Token
+2024-08-15 15:13:39 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:13:39 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:13:39 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:13:39 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:13:39 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:13:39 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:13:39 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:13:39 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:24:58 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b2-4511-8587-256298a
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1940>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x0000026F02024CA0>, 'werkzeug.socket': <socket.socket fd=1940, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54875)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54875, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_SEC_PURPOSE': 'prefetch;prerender', 'HTTP_PURPOSE': 'prefetch', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b2-4511-8587-256298a', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b2-4511-8587-256298a')])
+                       content_encoding:None
+                        
+2024-08-15 15:24:58 INFO: step 01: token_required:True without Token
+2024-08-15 15:24:58 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:24:58 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:24:59 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b2-4511-8587-256298a
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1948>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x0000026F02024AF0>, 'werkzeug.socket': <socket.socket fd=1948, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54874)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': '', 'REQUEST_URI': '/account/', 'RAW_URI': '/account/', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54874, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b2-4511-8587-256298a', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b2-4511-8587-256298a')])
+                       content_encoding:None
+                        
+2024-08-15 15:24:59 INFO: step 01: token_required:True without Token
+2024-08-15 15:24:59 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:24:59 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:24:59 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', '65b90af4-53b2-4511-8587-256298a2dd8e')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control: 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=b2-4511-8587-256298a
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1952>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x0000026F02024A60>, 'werkzeug.socket': <socket.socket fd=1952, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 54880)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/', 'QUERY_STRING': 'Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'REQUEST_URI': '/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'RAW_URI': '/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 54880, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=b2-4511-8587-256298a', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/?Token=65b90af4-53b2-4511-8587-256298a2dd8e' [GET]>} 
+                       endpoint:acct_bp.get_index_page
+                       cookies :ImmutableMultiDict([('session_api_account', 'b2-4511-8587-256298a')])
+                       content_encoding:None
+                        
+2024-08-15 15:24:59 INFO: step 02: token_required:True with Token 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:24:59 INFO: Use sso v4/cert_key: 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:24:59 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:65b90af4-53b2-4511-8587-256298a2dd8e
+
+2024-08-15 15:24:59 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '65b90af4-53b2-4511-8587-256298a2dd8e', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SAMV4'}
+2024-08-15 15:24:59 INFO: Set cache key: b2-4511-8587-256298a
+2024-08-15 15:24:59 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:24:59 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:24:59 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:24:59 DEBUG: Set cache value: {"sess_key": "b2-4511-8587-256298a", "emp_id": "10136399"}
+2024-08-15 15:24:59 INFO: validate_user step 2: token:65b90af4-53b2-4511-8587-256298a2dd8e
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: b2-4511-8587-256298a 
+2024-08-15 15:24:59 INFO: End of validate user: user_id: QS.CHOU / sess_key:b2-4511-8587-256298a
+2024-08-15 15:30:50 INFO: step 02: token_required:True with Token 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:30:50 INFO: Use sso v4/cert_key: 65b90af4-53b2-4511-8587-256298a2dd8e
+2024-08-15 15:30:50 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:65b90af4-53b2-4511-8587-256298a2dd8e
+
+2024-08-15 15:30:50 INFO: validate_user step 2: status_code: 401 
+ response_text: {"ErrorCode":9002,"Message":"Token Not Found or Expired Token=65b90af4-53b2-4511-8587-256298a2dd8e"} 
+ cert_key:65b90af4-53b2-4511-8587-256298a2dd8e
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:None 
+ sess_key: None 
+2024-08-15 15:30:50 INFO: End of validate user: user_id: None / sess_key:None
+2024-08-15 15:30:50 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-15 15:30:50 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-15 15:30:50 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:30:50 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:30:50 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:30:50 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:30:50 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:30:50 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:30:51 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:30:51 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:30:51 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:30:51 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:30:51 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:11 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:11 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:11 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:11 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:11 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:11 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:11 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:11 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:11 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:11 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:11 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:14 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:14 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:14 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:14 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:14 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:14 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:14 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:14 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:14 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:14 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:14 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:16 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:16 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:16 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:16 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:16 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:16 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:16 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:16 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:16 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:16 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:16 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:16 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:16 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:16 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:16 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:16 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:16 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:16 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:16 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:16 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:16 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:16 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:17 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:17 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:17 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:17 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 INFO: step 02: token_required:True with Token ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: Use sso v4/cert_key: ebc25965-2e60-46ed-8a0c-b1c070740c95
+2024-08-15 15:31:17 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:ebc25965-2e60-46ed-8a0c-b1c070740c95
+
+2024-08-15 15:31:17 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'ebc25965-2e60-46ed-8a0c-b1c070740c95', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-15 15:31:17 INFO: Set cache key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:17 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-15 15:31:17 DEBUG: Set cache value: {"sess_key": "60-46ed-8a0c-b1c0707", "emp_id": "10136399"}
+2024-08-15 15:31:17 INFO: validate_user step 2: token:ebc25965-2e60-46ed-8a0c-b1c070740c95
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+2024-08-15 15:31:17 INFO: End of validate user: user_id: QS.CHOU / sess_key:60-46ed-8a0c-b1c0707
+2024-08-15 15:31:21 INFO: step 03: token_required:False sess_key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:21 INFO: step 03-2 sess_key: 60-46ed-8a0c-b1c0707 / user_id: QS.CHOU
+2024-08-15 15:31:21 INFO: step 03-3 sess_key: 60-46ed-8a0c-b1c0707 / user_id: QS.CHOU
+2024-08-15 15:31:21 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+ 
+2024-08-15 15:31:21 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]
+2024-08-15 15:31:24 INFO: step 03: token_required:False sess_key: 60-46ed-8a0c-b1c0707
+2024-08-15 15:31:24 INFO: step 03-2 sess_key: 60-46ed-8a0c-b1c0707 / user_id: QS.CHOU
+2024-08-15 15:31:24 INFO: step 03-3 sess_key: 60-46ed-8a0c-b1c0707 / user_id: QS.CHOU
+2024-08-15 15:31:24 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 60-46ed-8a0c-b1c0707 
+ 

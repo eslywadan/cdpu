@@ -1,0 +1,5 @@
+2022-09-22 16:18:57 INFO: Begin Request APIKey from clientid eng
+2022-09-22 16:18:57 INFO: Response clientid: "eng"
+apikey: "5073cdf7-369c-31a7-a2f0-6f12ae88ebd5"
+expiry: "24"
+ from server localhost:23335 End

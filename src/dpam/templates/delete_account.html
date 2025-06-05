@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>API Client Account - Delete Account</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="{{ url_for('static', filename='js/jquery-3.5.1.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+</head>
+<body>
+    <h2>Delete API Client Account</h2>
+
+    <form style="padding-left:100px;padding-top:40px;width:400px;" action="{{ url_for('acct_bp.db_delete_account') }}" method="POST">
+
+        <div class="form-group">
+            <label for="txt_client_id">Client ID</label>
+            <input name="txt_client_id" id="txt_client_id" class="form-control" readonly value="{{ client_id }}">
+        </div>
+
+        <div style="color:red;">{{error}}</div>
+
+        <input type="submit" class="btn btn-outline-info" value="Delete Account">
+        <button type="button" class="btn btn-outline-info" onclick="window.location.href = '{{ list_page }}';"> Cancel </button>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+# build the feodra:40 base image
+podman build -f Dockerfile.fedora -t irepocld.cminl.oa/datastudio-ci-dev/python:fedora
+
+# build the cdpu image
+podman build -f Dockerfile.fedora.cdpu -t irepocld.cminl.oa/datastudio-ci-dev/cdpu:v01

@@ -1,0 +1,24 @@
+2022-07-27 16:38:45 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 16:38:46 INFO: Response clientid: "mfg"
+apikey: "a5c495ee-4d02-337d-9d78-c626913eb27d"
+expiry: "24"
+ from server localhost:23335 End
+2022-07-27 17:23:56 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:05 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:07 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:09 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:09 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:10 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:10 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:11 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:11 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:13 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:24:35 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:25:36 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:26:50 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:27:03 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:37:47 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:37:54 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:37:59 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:38:03 INFO: Begin Request APIKey from clientid mfg
+2022-07-27 17:38:13 INFO: Begin Request APIKey from clientid mfg

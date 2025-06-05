@@ -1,0 +1,13 @@
+2024-04-30 08:55:38 INFO: Set cache key: @qs.chou%info
+2024-04-30 08:55:38 DEBUG: Set cache value: {"a":1,"b":,2}
+2024-04-30 08:58:23 INFO: Set cache key: @qs.chou%info
+2024-04-30 08:58:23 DEBUG: Set cache value: {"a":1,"b":,2}
+2024-04-30 09:00:28 INFO: Set cache key: qs.chou@app
+2024-04-30 09:00:28 DEBUG: Set cache value: {"a":1,"b":2}
+2024-04-30 09:04:29 INFO: Set cache key: qs.chou@app
+2024-04-30 09:04:29 DEBUG: Set cache value: {"a":1,"b":2}
+2024-04-30 09:05:08 INFO: Set cache key: @qs.chou%info
+2024-04-30 09:05:08 DEBUG: Set cache value: {"a":1,"b":,2}
+2024-04-30 14:46:23 INFO: Set cache key: 12345678
+2024-04-30 14:46:23 DEBUG: Set cache value: {}
+2024-04-30 14:46:23 INFO: Get cache key: session_api_account@qs.chou

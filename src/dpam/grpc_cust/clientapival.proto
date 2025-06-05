@@ -1,0 +1,41 @@
+syntax = "proto3";
+package clientapival;
+
+message ClientId {
+  string clientid = 1;
+}
+
+message ClientInfo {
+  string clientid = 1;
+  string password = 2;
+  int32 type = 3;
+  string expiry = 4;
+  string permission = 5;
+}
+
+message ClientCred {
+  string clientid = 1;
+  string password = 2;
+}
+
+
+message ClientAPIKey {
+  string clientid = 1;
+  string apikey = 2;
+  string expiry =3;
+}
+
+message APIKey {
+  string apikey = 1;
+}
+
+message VerifiedAPIKey {
+  string apikey = 1;
+  string assertion =2; 
+}
+
+service ClientAPIVal {
+  rpc clientinfo (ClientId) returns (ClientInfo);
+  rpc clientapikey (ClientCred) returns (ClientAPIKey);
+  rpc verifiedapikey (APIKey) returns (VerifiedAPIKey);
+}

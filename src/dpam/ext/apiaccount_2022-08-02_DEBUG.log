@@ -1,0 +1,41 @@
+2022-08-02 13:53:46 INFO: Begin Request APIKey from clientid client_store_test
+2022-08-02 13:53:46 INFO: Response clientid: "client_store_test"
+expiry: "1900-01-01"
+ from server localhost:23335 End
+2022-08-02 13:53:58 INFO: Begin Request APIKey from clientid client_store_test
+2022-08-02 13:53:58 INFO: Response clientid: "client_store_test"
+expiry: "1900-01-01"
+ from server localhost:23335 End
+2022-08-02 13:54:22 INFO: Begin Request APIKey from clientid client_store_test
+2022-08-02 13:54:22 INFO: Response clientid: "client_store_test"
+expiry: "1900-01-01"
+ from server localhost:23335 End
+2022-08-02 13:56:07 INFO: Begin Request APIKey from clientid mfg
+2022-08-02 13:56:07 INFO: Response clientid: "mfg"
+apikey: "b1f031d2-89b1-3467-9c0b-5c4a568c91e3"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-02 13:56:16 INFO: Begin Request APIKey from clientid eng
+2022-08-02 13:56:16 INFO: Response clientid: "eng"
+apikey: "e3b404e4-e2a9-3e1c-b8f9-1c6b3982cbf3"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-02 13:56:48 INFO: Begin Request APIKey from clientid ds_test
+2022-08-02 13:56:48 INFO: Response clientid: "ds_test"
+expiry: "1900-01-01"
+ from server localhost:23335 End
+2022-08-02 14:06:50 INFO: Begin Request APIKey from clientid ds_test
+2022-08-02 14:06:50 INFO: Response clientid: "ds_test"
+apikey: "c8f0e566-67f4-3170-9363-03f892d58cbb"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-02 14:14:19 INFO: Begin Request APIKey from clientid ds_test
+2022-08-02 14:14:19 INFO: Response clientid: "ds_test"
+apikey: "c8f0e566-67f4-3170-9363-03f892d58cbb"
+expiry: "24"
+ from server localhost:23335 End
+2022-08-02 16:07:22 INFO: Begin Request APIKey from clientid ds_test
+2022-08-02 16:07:22 INFO: Response clientid: "ds_test"
+apikey: "c8f0e566-67f4-3170-9363-03f892d58cbb"
+expiry: "24"
+ from server localhost:23335 End

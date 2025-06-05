@@ -1,0 +1,20 @@
+2025-03-11 17:14:03 INFO: step 01: token_required:True without Token
+2025-03-11 17:14:03 INFO: myhost : https://127.0.0.1:8443/account/
+2025-03-11 17:14:03 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=https://127.0.0.1:8443/account/
+2025-03-11 17:14:03 INFO: step 02: token_required:True with Token 3e1ab0e6-61e8-44d1-913c-5b00048f0b38
+2025-03-11 17:14:03 INFO: Use sso v4/cert_key: 3e1ab0e6-61e8-44d1-913c-5b00048f0b38
+2025-03-11 17:14:03 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:3e1ab0e6-61e8-44d1-913c-5b00048f0b38
+
+2025-03-11 17:14:03 INFO: response ticket: {'MemID': '10136399', 'MemName': '周崑水', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '3e1ab0e6-61e8-44d1-913c-5b00048f0b38', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-11 17:14:03 INFO: Set cache key: e8-44d1-913c-5b00048
+2025-03-11 17:14:03 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-11 17:14:03 DEBUG: Get cache key: session_api_account@QS.CHOU
+2025-03-11 17:14:03 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-11 17:14:03 DEBUG: Set cache value: {"sess_key": "e8-44d1-913c-5b00048", "emp_id": "10136399"}
+2025-03-11 17:14:03 INFO: validate_user step 2: token:3e1ab0e6-61e8-44d1-913c-5b00048f0b38
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: e8-44d1-913c-5b00048 
+2025-03-11 17:14:03 INFO: End of validate user: user_id: QS.CHOU / sess_key:e8-44d1-913c-5b00048

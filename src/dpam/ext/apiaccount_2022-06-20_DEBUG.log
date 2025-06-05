@@ -1,0 +1,25 @@
+2022-06-20 18:40:33 INFO: Begin Request APIKey from clientid mfg
+2022-06-20 18:40:36 INFO: Response clientid: "mfg"
+apikey: "af237457-b208-33c2-a209-4041710428c7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-20 18:44:37 INFO: Begin Request APIKey from clientid mfg
+2022-06-20 18:44:37 INFO: Response clientid: "mfg"
+apikey: "af237457-b208-33c2-a209-4041710428c7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-20 18:48:57 INFO: Begin Request APIKey from clientid mfg
+2022-06-20 18:48:57 INFO: Response clientid: "mfg"
+apikey: "af237457-b208-33c2-a209-4041710428c7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-20 18:49:12 INFO: Begin Request APIKey from clientid mfg
+2022-06-20 18:49:12 INFO: Response clientid: "mfg"
+apikey: "af237457-b208-33c2-a209-4041710428c7"
+expiry: "24"
+ from server localhost:23334 End
+2022-06-20 19:42:14 INFO: Begin Request APIKey from clientid mfg
+2022-06-20 19:42:15 INFO: Response clientid: "mfg"
+apikey: "af237457-b208-33c2-a209-4041710428c7"
+expiry: "24"
+ from server localhost:23334 End

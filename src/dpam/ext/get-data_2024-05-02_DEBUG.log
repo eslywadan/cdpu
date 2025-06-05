@@ -1,0 +1,56 @@
+2024-05-02 15:01:42 INFO: request.args: ImmutableMultiDict([('Token', '93bc3d40-2334-4754-b648-a6b4915c72eb')])
+2024-05-02 15:01:42 INFO: accept_charsets:  
+                       accept_encodings: gzip,deflate 
+                       accept_languages: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6 
+                       accept_mimetypes: application/signed-exchange;v=b3;q=0.7,text/html,application/xhtml+xml,image/avif,image/webp,image/apng,application/xml;q=0.9,*/*;q=0.8 
+                       access_control_request_headers :None 
+                       access_control_request_method:None 
+                       access_route:ImmutableList(['10.56.133.132'])
+                       application:<bound method Request.application of <class 'flask.wrappers.Request'>> 
+                       args:ImmutableMultiDict([('Token', '93bc3d40-2334-4754-b648-a6b4915c72eb')]) 
+                       authorization:None 
+                       base_url:http://10.56.133.132:8060/account/ssov4 
+                       blueprint:acct_bp 
+                       blueprints:['acct_bp'] 
+                       cache_control:max-age=0 
+                       headers:Host: 10.56.133.132:8060
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://tsamv4athe.cminl.oa/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+Cookie: session_api_account=0ssbSZuX7cpwwj8UlWwl
+
+ 
+                       server:('0.0.0.0', 8060) 
+                       environ:{'wsgi.version': (1, 0), 'wsgi.url_scheme': 'http', 'wsgi.input': <_io.BufferedReader name=1984>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.run_once': False, 'werkzeug.server.shutdown': <function WSGIRequestHandler.make_environ.<locals>.shutdown_server at 0x0000025767452790>, 'werkzeug.socket': <socket.socket fd=1984, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('10.56.133.132', 8060), raddr=('10.56.133.132', 52784)>, 'SERVER_SOFTWARE': 'Werkzeug/2.0.3', 'REQUEST_METHOD': 'GET', 'SCRIPT_NAME': '', 'PATH_INFO': '/account/ssov4', 'QUERY_STRING': 'Token=93bc3d40-2334-4754-b648-a6b4915c72eb', 'REQUEST_URI': '/account/ssov4?Token=93bc3d40-2334-4754-b648-a6b4915c72eb', 'RAW_URI': '/account/ssov4?Token=93bc3d40-2334-4754-b648-a6b4915c72eb', 'REMOTE_ADDR': '10.56.133.132', 'REMOTE_PORT': 52784, 'SERVER_NAME': '0.0.0.0', 'SERVER_PORT': '8060', 'SERVER_PROTOCOL': 'HTTP/1.1', 'HTTP_HOST': '10.56.133.132:8060', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_CACHE_CONTROL': 'max-age=0', 'HTTP_UPGRADE_INSECURE_REQUESTS': '1', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36', 'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'HTTP_REFERER': 'http://tsamv4athe.cminl.oa/', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT_LANGUAGE': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6', 'HTTP_COOKIE': 'session_api_account=0ssbSZuX7cpwwj8UlWwl', 'werkzeug.request': <Request 'http://10.56.133.132:8060/account/ssov4?Token=93bc3d40-2334-4754-b648-a6b4915c72eb' [GET]>} 
+                       endpoint:acct_bp.ssov4
+                       cookies :ImmutableMultiDict([('session_api_account', '0ssbSZuX7cpwwj8UlWwl')])
+                       content_encoding:None
+2024-05-02 15:01:42 INFO: Get cache key: 0ssbSZuX7cpwwj8UlWwl
+2024-05-02 15:01:42 INFO: get session key from request.cookies: 0ssbSZuX7cpwwj8UlWwl
+2024-05-02 15:01:42 INFO: validate_user step 0: initial - user_id:None 
+ sess_key: 0ssbSZuX7cpwwj8UlWwl 
+ 
+2024-05-02 15:01:42 INFO: Use sso v4/cert_key: 93bc3d40-2334-4754-b648-a6b4915c72eb
+2024-05-02 15:01:42 INFO: validate_user use ssov4 step 1: 'CertificateKey' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:93bc3d40-2334-4754-b648-a6b4915c72eb
+
+2024-05-02 15:01:42 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '93bc3d40-2334-4754-b648-a6b4915c72eb', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-05-02 15:01:42 INFO: Set cache key: 34-4754-b648-a6b4915
+2024-05-02 15:01:42 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-05-02 15:01:42 INFO: Get cache key: session_api_account@QS.CHOU
+2024-05-02 15:01:42 INFO: Set cache key: session_api_account@QS.CHOU
+2024-05-02 15:01:42 DEBUG: Set cache value: {"sess_key": "34-4754-b648-a6b4915", "emp_id": "10136399"}
+2024-05-02 15:01:42 INFO: validate_user step 2: cert_key:93bc3d40-2334-4754-b648-a6b4915c72eb
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 34-4754-b648-a6b4915 
+2024-05-02 15:01:42 INFO: End of validate user: user_id: QS.CHOU / sess_key:34-4754-b648-a6b4915
+2024-05-02 15:01:42 INFO: ssov4: user_id is QS.CHOU type: <class 'str'>
+2024-05-02 16:06:26 INFO: Get cache key: 34-4754-b648-a6b4915
+2024-05-03 10:43:18 INFO: Get cache key: 5c-4e3e-b166-49f3a97

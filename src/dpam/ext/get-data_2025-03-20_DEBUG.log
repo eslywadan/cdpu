@@ -1,0 +1,77 @@
+2025-03-20 16:38:57 INFO: step 01: token_required:True without Token
+2025-03-20 16:38:57 INFO: myhost : http://10.56.133.132:8060/account/
+2025-03-20 16:38:57 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2025-03-20 16:38:58 INFO: step 02: token_required:True with Token 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 16:38:58 INFO: Use sso v4/cert_key: 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 16:38:58 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+
+2025-03-20 16:38:58 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9b4d7ff4-9b0c-4c17-ae5d-33411304be01', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-20 16:38:58 INFO: Set cache key: 0c-4c17-ae5d-3341130
+2025-03-20 16:38:58 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-20 16:38:58 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-20 16:38:58 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-20 16:38:58 DEBUG: Set cache value: {"sess_key": "0c-4c17-ae5d-3341130", "emp_id": "10136399"}
+2025-03-20 16:38:58 INFO: validate_user step 2: token:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 0c-4c17-ae5d-3341130 
+2025-03-20 16:38:58 INFO: End of validate user: user_id: QS.CHOU / sess_key:0c-4c17-ae5d-3341130
+2025-03-20 17:35:27 INFO: giveb token is via auth header in Bearer 1234
+2025-03-20 17:36:09 INFO: giveb token is via auth header in Bearer 5678
+2025-03-20 18:10:02 INFO: giveb token is via auth header in Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:10:02 INFO: step 00: token_required:True with given token 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:10:02 INFO: Use sso v4/cert_key: 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:10:02 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+
+2025-03-20 18:10:02 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9b4d7ff4-9b0c-4c17-ae5d-33411304be01', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-20 18:10:02 INFO: Set cache key: 0c-4c17-ae5d-3341130
+2025-03-20 18:10:02 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-20 18:10:03 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-20 18:10:03 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-20 18:10:03 DEBUG: Set cache value: {"sess_key": "0c-4c17-ae5d-3341130", "emp_id": "10136399"}
+2025-03-20 18:10:03 INFO: validate_user step 2: token:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 0c-4c17-ae5d-3341130 
+2025-03-20 18:10:03 INFO: End of validate user: user_id: QS.CHOU / sess_key:0c-4c17-ae5d-3341130
+2025-03-20 18:23:09 INFO: giveb token is via auth header in Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:09 INFO: step 00: token_required:True with given token 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:09 INFO: Use sso v4/cert_key: 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:09 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+
+2025-03-20 18:23:09 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9b4d7ff4-9b0c-4c17-ae5d-33411304be01', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-20 18:23:09 INFO: Set cache key: 0c-4c17-ae5d-3341130
+2025-03-20 18:23:09 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-20 18:23:09 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-20 18:23:09 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-20 18:23:09 DEBUG: Set cache value: {"sess_key": "0c-4c17-ae5d-3341130", "emp_id": "10136399"}
+2025-03-20 18:23:09 INFO: validate_user step 2: token:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 0c-4c17-ae5d-3341130 
+2025-03-20 18:23:09 INFO: End of validate user: user_id: QS.CHOU / sess_key:0c-4c17-ae5d-3341130
+2025-03-20 18:23:25 INFO: giveb token is via auth header in Bearer 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:25 INFO: step 00: token_required:True with given token 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:25 INFO: Use sso v4/cert_key: 9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+2025-03-20 18:23:25 INFO: validate_user use ssov4 step 0: 'Token' is given - user_id:None 
+ sess_key: None 
+ cert_key:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+
+2025-03-20 18:23:25 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '9b4d7ff4-9b0c-4c17-ae5d-33411304be01', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'SERSRC'}
+2025-03-20 18:23:25 INFO: Set cache key: 0c-4c17-ae5d-3341130
+2025-03-20 18:23:25 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2025-03-20 18:23:25 INFO: Get cache key: session_api_account@QS.CHOU
+2025-03-20 18:23:25 INFO: Set cache key: session_api_account@QS.CHOU
+2025-03-20 18:23:25 DEBUG: Set cache value: {"sess_key": "0c-4c17-ae5d-3341130", "emp_id": "10136399"}
+2025-03-20 18:23:25 INFO: validate_user step 2: token:9b4d7ff4-9b0c-4c17-ae5d-33411304be01
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 0c-4c17-ae5d-3341130 
+2025-03-20 18:23:25 INFO: End of validate user: user_id: QS.CHOU / sess_key:0c-4c17-ae5d-3341130
+2025-03-20 18:23:25 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}, {'CLIENT_ID': 'retrain2', 'CREATE_DTTM': '2024-08-16 09:26:56'}]

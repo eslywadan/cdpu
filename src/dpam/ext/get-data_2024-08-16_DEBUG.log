@@ -1,0 +1,37 @@
+2024-08-16 09:27:28 INFO: step 03: token_required:False sess_key: 73-4137-9f19-17b5b56
+2024-08-16 09:27:28 INFO: Get cache key: 73-4137-9f19-17b5b56
+2024-08-16 09:27:28 INFO: get session data from redis: sess_key 73-4137-9f19-17b5b56, sess:{'user_id': 'QS.CHOU', 'emp_id': '10136399'}
+2024-08-16 09:27:28 INFO: set session data from redis: sess_key 73-4137-9f19-17b5b56, clz._sessions:{'user_id': 'QS.CHOU', 'emp_id': '10136399'}
+2024-08-16 09:27:28 INFO: step 03-2 sess_key: 73-4137-9f19-17b5b56 / user_id: QS.CHOU
+2024-08-16 09:27:28 INFO: step 03-3 sess_key: 73-4137-9f19-17b5b56 / user_id: QS.CHOU
+2024-08-16 09:27:28 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 73-4137-9f19-17b5b56 
+ 
+2024-08-16 09:27:28 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}, {'CLIENT_ID': 'retrain2', 'CREATE_DTTM': '2024-08-16 09:26:56'}]
+2024-08-16 09:27:31 INFO: step 01: token_required:True without Token
+2024-08-16 09:27:31 INFO: myhost : http://10.56.133.132:8060/account/
+2024-08-16 09:27:31 INFO: redirect url:http://psamv4athetn.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-08-16 09:27:31 INFO: step 02: token_required:True with Token 5712af6c-2973-4137-9f19-17b5b569e14e
+2024-08-16 09:27:31 INFO: Use sso v4/cert_key: 5712af6c-2973-4137-9f19-17b5b569e14e
+2024-08-16 09:27:31 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:5712af6c-2973-4137-9f19-17b5b569e14e
+
+2024-08-16 09:27:31 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': '5712af6c-2973-4137-9f19-17b5b569e14e', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'INNOCLOUD'}
+2024-08-16 09:27:31 INFO: Set cache key: 73-4137-9f19-17b5b56
+2024-08-16 09:27:31 DEBUG: Set cache value: {"user_id": "QS.CHOU", "emp_id": "10136399"}
+2024-08-16 09:27:31 INFO: Get cache key: session_api_account@QS.CHOU
+2024-08-16 09:27:31 INFO: Set cache key: session_api_account@QS.CHOU
+2024-08-16 09:27:31 DEBUG: Set cache value: {"sess_key": "73-4137-9f19-17b5b56", "emp_id": "10136399"}
+2024-08-16 09:27:31 INFO: validate_user step 2: token:5712af6c-2973-4137-9f19-17b5b569e14e
+ url: http://psamv4athetn.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 73-4137-9f19-17b5b56 
+2024-08-16 09:27:31 INFO: End of validate user: user_id: QS.CHOU / sess_key:73-4137-9f19-17b5b56
+2024-08-16 09:27:33 INFO: step 03: token_required:False sess_key: 73-4137-9f19-17b5b56
+2024-08-16 09:27:33 INFO: step 03-2 sess_key: 73-4137-9f19-17b5b56 / user_id: QS.CHOU
+2024-08-16 09:27:33 INFO: step 03-3 sess_key: 73-4137-9f19-17b5b56 / user_id: QS.CHOU
+2024-08-16 09:27:33 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 73-4137-9f19-17b5b56 
+ 
+2024-08-16 09:27:33 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}, {'CLIENT_ID': 'retrain2', 'CREATE_DTTM': '2024-08-16 09:26:56'}]

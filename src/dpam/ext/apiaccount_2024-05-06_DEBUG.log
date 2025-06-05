@@ -1,0 +1,22 @@
+2024-05-06 09:35:35 INFO: step 01: token_required:True without Token
+2024-05-06 09:35:35 INFO: myhost : http://10.56.133.132:8060/account/
+2024-05-06 09:35:35 INFO: redirect url:http://tsamv4athe.cminl.oa/form/Logon.html?SysID=datastudio&url=http://10.56.133.132:8060/account/
+2024-05-06 09:35:36 INFO: step 02: token_required:True with Token a5a58d8a-2c5f-44fb-b25b-783f3ce5a892
+2024-05-06 09:35:36 INFO: Use sso v4/cert_key: a5a58d8a-2c5f-44fb-b25b-783f3ce5a892
+2024-05-06 09:35:36 INFO: validate_user use ssov4 step 1: 'Token' exist in request.args - user_id:None 
+ sess_key: None 
+ cert_key:a5a58d8a-2c5f-44fb-b25b-783f3ce5a892
+
+2024-05-06 09:35:36 INFO: response ticket: {'MemID': '10136399', 'MemName': '©P±X¤ô', 'AD': 'QS.CHOU', 'MemType': 'Employee', 'SSOToken': 'a5a58d8a-2c5f-44fb-b25b-783f3ce5a892', 'RemoteIP': '10.56.133.132', 'RealUser': None, 'SYSID': 'DATASTUDIO'}
+2024-05-06 09:35:36 INFO: validate_user step 2: token:a5a58d8a-2c5f-44fb-b25b-783f3ce5a892
+ url: http://tsamv4athe.cminl.oa/api/SSO/VerifyToken 
+ user_id:QS.CHOU 
+ sess_key: 5f-44fb-b25b-783f3ce 
+2024-05-06 09:35:36 INFO: End of validate user: user_id: QS.CHOU / sess_key:5f-44fb-b25b-783f3ce
+2024-05-06 09:35:38 INFO: step 03: token_required:False sess_key: 5f-44fb-b25b-783f3ce
+2024-05-06 09:35:38 INFO: step 03-2 sess_key: 5f-44fb-b25b-783f3ce / user_id: QS.CHOU
+2024-05-06 09:35:38 INFO: step 03-3 sess_key: 5f-44fb-b25b-783f3ce / user_id: QS.CHOU
+2024-05-06 09:35:38 INFO: step 03-4 : get user info from session - user_id:QS.CHOU 
+ sess_key: 5f-44fb-b25b-783f3ce 
+ 
+2024-05-06 09:35:38 INFO: list accounts created by QS.CHOU/accounts: [{'CLIENT_ID': 'mfg', 'CREATE_DTTM': '2022-03-14 14:22:36'}, {'CLIENT_ID': 'eng', 'CREATE_DTTM': '2022-05-03 13:49:20'}, {'CLIENT_ID': 'client_store_test', 'CREATE_DTTM': '2022-08-02 13:53:31'}, {'CLIENT_ID': 'ds_test', 'CREATE_DTTM': '2022-08-02 13:56:39'}, {'CLIENT_ID': 'retrain', 'CREATE_DTTM': '2024-05-03 17:20:59'}]

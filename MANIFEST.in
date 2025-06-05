@@ -1,0 +1,2 @@
+recursive-include src/dpam/templates *.html
+recursive-include src/dpam/static *
