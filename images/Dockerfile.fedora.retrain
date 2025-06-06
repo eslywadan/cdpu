@@ -1,0 +1,8 @@
+FROM irepocld.cminl.oa/datastudio-ci-dev/python:fedora02
+
+# Set working directory
+WORKDIR /app
+
+# install required modules and cdpu package
+COPY requirements_nover.txt .
+RUN pip3 install --no-cache-dir -r requirements_nover.txt

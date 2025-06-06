@@ -1,4 +1,6 @@
- # data studio api account managenent 
+ # Core Data Plateform Utilities
+
+![image](./docs/png/core_plateform_utilities.png)
 There are two blue prints /account and /api at the host services.
 ## /account
 data studio api account management allow user to create his/her owned client id to use services provided by data studio.
