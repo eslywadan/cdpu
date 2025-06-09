@@ -14,8 +14,10 @@ else:  instance_path = os.path.join(os.environ["PYTHONPATH"], "instance")
 app = Flask(__name__, instance_path=instance_path)
 app.config.from_pyfile(os.path.join(instance_path,"flask.cfg"))
 db_path = os.path.join(instance_path, 'events.db')
-#app.config["SQLALCHEMY_DATABASE_URI"] = f"sqlite:////{db_path}"
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:////event.db" 
+print(f"instance path is {instance_path}")
+print(f"db path is {db_path}")
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///"+db_path
+#app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:////event.db" 
 app.config["SQLALACEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
 
@@ -28,7 +30,9 @@ print(f"Current time is {dt.isoformat()} on {tz} timezone")
 
 # SQLAlchemy Model
 class UnifiedEvent(db.Model):
-    
+    """
+    version 0.1 an unified event model
+    """    
     __tablename__ = 'events'
     
     id = db.Column(db.Integer, primary_key=True)
@@ -65,7 +69,7 @@ class UnifiedEvent(db.Model):
         self.action = data.get('action')
         self.outcome = data.get('outcome')
         self.context = json.dumps(data.get('context', {}))
-        self.metadata = json.dumps(data.get('metadata', {}))
+        self._metadata = json.dumps(data.get('_metadata', {}))
         self.user_ad = data.get("user_ad")
         
         # Decorated fields based on event type
@@ -121,7 +125,7 @@ actor_model = event_api.model('Actor', {
 
 target_model = event_api.model('Target', {
     'service': fields.String(required=True),
-    'resource': fields.String(requied=True)
+    'resource': fields.String(required=True)
 })
 
 context_model = event_api.model('Context', {
@@ -143,7 +147,7 @@ log_event_model = event_api.model('LogEvent', {
     'action': fields.String(required=True),
     'outcome': fields.String(required=True),
     'context': fields.Nested(context_model),
-    'metadata': fields.Nested(metadata_model),
+    '_metadata': fields.Nested(metadata_model),
     'log_level': fields.String() })
 
 issue_event_model = event_api.inherit("IssueEvent", log_event_model, { 
@@ -169,7 +173,7 @@ parser.add_argument('user_ad', type=str, required=False, help='User AD in actor.
 parser.add_argument('start', type=str, required=False, help='Start timestamp (inclusive)')
 parser.add_argument('end', type=str, required=False, help='End timestamp (inclusive)')
 
-@event_api.route('/')
+@event_api.route('/events')
 class EventList(Resource):
     @event_api.expect(parser)
     def get(self):
@@ -191,25 +195,29 @@ class EventList(Resource):
             query = query.filter(UnifiedEvent.timestamp <= end_dt)
         
         events = UnifiedEvent.query.all()
-        return [
-            {
-                'id': e.id,
-                'event_type': e.event_type,
-                'timestamp': e.timestamp,
-                'actor': json.loads(e.actor),
-                'target': json.loads(e.target),
-                'action': e.action,
-                'outcome': e.outcome,
-                'log_level': e.log_level,
-                'severity': e.severity,
-                'critical': e.critical,
-                'status': e.status,
-                'related_issue_id': e.related_issue_id,
-                'related_alter_id': e.related_alter_id,
-                'comment': e.comment,
-                'related_event_id': e.related_event_id
-            } for e in events
-        ]
+        return {
+            "events":
+            [
+                {
+                    'id': e.id,
+                    'event_type': e.event_type,
+                    'timestamp': e.timestamp,
+                    'actor': json.loads(e.actor or "{}"),
+                    'target': json.loads(e.target or "{}"),
+                    'action': e.action,
+                    'outcome': e.outcome,
+                    'context': json.loads(e.context or "{}"),
+                    'metadata': json.loads(e._metadata or "{}"),
+                    'log_level': e.log_level,
+                    'severity': e.severity,
+                    'critical': e.critical,
+                    'status': e.status,
+                    'related_issue_id': e.related_issue_id,
+                    'related_alert_id': e.related_alert_id,
+                    'comment': e.comment,
+                    'related_event_id': e.related_event_id
+                } for e in events
+            ]}, 200
 
 
 @event_api.route('/log')
@@ -277,7 +285,7 @@ def save_event(data, event_type):
     try:
         event = UnifiedEvent(
             event_type = event_type,
-            timestamp = datetime.now(tz),
+            timestamp = datetime.now(tz).isoformat(),
             actor = actor,
             target = target,
             action = data.get("action"),
@@ -304,9 +312,7 @@ def create_db():
     with app.app_context():
         db.create_all()
 
-if __name__ == '__main__':
-
-    
+if __name__ == '__main__':    
     app.run(host='0.0.0.0', port=8080)
 
 

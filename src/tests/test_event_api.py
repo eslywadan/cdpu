@@ -21,7 +21,7 @@ def test_log_event(client):
         "outcome": "success",
         "log_level": "INFO"
     }
-    response = client.post("/events/", json=payload)
+    response = client.post("/log", json=payload)
     assert response.status_code == 201
     
 def test_issue_event(client):
@@ -34,7 +34,7 @@ def test_issue_event(client):
         "outcome": "notified",
         "severity": "medium"
     }
-    response = client.post("")
+    response = client.post("/issue", json=payload)
     assert response.status_code == 201
     
 def test_alert_event(client):
@@ -46,9 +46,9 @@ def test_alert_event(client):
         "action": "send",
         "outcome": "alerted",
         "_metadata": {"request_id": "abc123"},
-        "critical": True
+        "critical": True  # Please change True to true if copy/past to swagger
     }
-    response = client.post("")
+    response = client.post("/alert", json=payload)
     assert response.status_code == 201
         
     
@@ -65,11 +65,10 @@ def test_incident_event(client):
         "related_issue_id": 1,
         "related_alert_id": 2
     }
-    response = client.post("")
+    response = client.post("/incident", json=payload)
     assert response.status_code == 201
     
 def test_feedback_event(client):
-    
     payload = {
         "event_type": "feedback",
         "actor": {"clientid":"apds","user_ad":"qs.chou", "ip":""},
@@ -81,6 +80,6 @@ def test_feedback_event(client):
         "related_event_id": 3,
         "comment": "Issue is resolved"
     }
-    response = client.post("")
+    response = client.post("/feedback", json=payload)
     assert response.status_code == 201
     

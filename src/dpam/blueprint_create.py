@@ -10,8 +10,8 @@ acctclog_bp = Blueprint('acctclog_bp', __name__)
 def create_app(config_filename=None):
   app = Flask(__name__, instance_relative_config=True)
   
-  basedir = app.config['BASEDIR']
-  dbpath = os.path.join(basedir, 'clogs.db')
+  #basedir = app.config['BASEDIR']
+  #dbpath = os.path.join(basedir, 'clogs.db')
   
   app.config.from_pyfile(config_filename)
   app = register_blueprint(app)

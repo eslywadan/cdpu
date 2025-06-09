@@ -49,3 +49,4 @@ src/ext/account.sqlite
 src/ext/*.log
 lvenv
 lvenv/*.*
+*.egg-info/
