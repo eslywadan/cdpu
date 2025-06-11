@@ -7,11 +7,13 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from dateutil.parser import parse as parse_datetime
 import os
+from flask_cors import CORS
 
 if "PYTHONPATH" not in os.environ.keys(): instance_path = os.path.join(os.getcwd(), "instance")
 else:  instance_path = os.path.join(os.environ["PYTHONPATH"], "instance")
 
 app = Flask(__name__, instance_path=instance_path)
+CORS(app)
 app.config.from_pyfile(os.path.join(instance_path,"flask.cfg"))
 db_path = os.path.join(instance_path, 'events.db')
 print(f"instance path is {instance_path}")
