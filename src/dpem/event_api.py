@@ -196,7 +196,8 @@ class EventList(Resource):
             end_dt = parse_datetime(args['end'])
             query = query.filter(UnifiedEvent.timestamp <= end_dt)
         
-        events = UnifiedEvent.query.all()
+        # events = UnifiedEvent.query.all()
+        events = query.all()
         return {
             "events":
             [
