@@ -1,11 +1,31 @@
- # Core Data Plateform Utilities
+# Core Data Plateform Utilities
 
 ![image](./docs/png/core_plateform_utilities.png)
+
+## pack and install on developing
+run `pack_intall_cdpu.py` after code change. 
+`--install_option=1 or 2`, if 1, it will install directly from the source without generating the package files.
+                           if 2, it will build the pack and install from the buid pack.
+`--clean_legacy_dir=True or False`, the option is used when `install_option=2`. If 'True' (default), it will clean the legacy folders in ['build', 'dist'] or will keep legacy versions.
+
+```bash
+python -m pack_install_dpam 
+python -m pack_install_dpam --install_option=1
+python -m pack_install_dpam --install_option=2 --clean_legacy_dir=True
+```
+- `pack_install_dpam` arguments 
+`--install_option, required=False, default=2,
+    help="1: install from source wo build packs 2: build and install from build pack"
+--clean_legacy_dir, required=False, default=True,help="True: Will clean the legacy dirs (build and dist folders) False:keep legacy files"`    
+`
+
+
+## am module (Account Management)
 There are two blue prints /account and /api at the host services.
-## /account
+### /account
 data studio api account management allow user to create his/her owned client id to use services provided by data studio.
 Also, admins use the same app to maintain privileges of those client ids.
-## /api 
+### /api 
 - /apikey Authorized by client id and password
 - /user Authorized by ssotoken, will get the user's ad name by ssotoken
 - /user/clients Authorized by ssotoken, will the client ids created by the user 
@@ -14,22 +34,12 @@ Also, admins use the same app to maintain privileges of those client ids.
 - /vapikey 
 - /{client}/apikey Authorized by ssotoken
 
-## app id is 'api_account'
+### app id is 'api_account'
 the app id 'api_account' is used in the prefix of cookie's name and the prefix of redis key to user's ext info.
-## os.environ
+### os.environ
 os.environ["api_account_env"] is 'prod'|'test' or else. 
 - validate_user use this env to switch the 'prod'|'test' sso api from samv4 
 os.environ['configpath'] is where the config.json reside
-## development env
-run the pack_intall_dpam after the change. It will install and pack the instalation file at the dist folder.
-```bash
-python -m pack_install_dpam
-```
-
-Run the server at the development environment
-```bash
-python -m dpam.account_portal
-```
 
 
 ## testing env

@@ -16,7 +16,7 @@ else:
 setup(
     name ="cdpu",
     version = version,
-    description ="Contains dataplateform account management modules",
+    description ="Contains Core DataPlateform Utilities modules",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     include_package_data=True,
