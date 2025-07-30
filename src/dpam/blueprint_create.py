@@ -1,18 +1,10 @@
 from flask import Flask
 from flask import Blueprint
-import os
-
-
-acct_bp = Blueprint('acct_bp', __name__)
-acctapi_bp = Blueprint('acctapi_bp', __name__)
-acctclog_bp = Blueprint('acctclog_bp', __name__)
+from dpam.acctportal_route import account_bp as acct_bp
+from dpam.acctapi import acctapi_bp
 
 def create_app(config_filename=None):
   app = Flask(__name__, instance_relative_config=True)
-  
-  #basedir = app.config['BASEDIR']
-  #dbpath = os.path.join(basedir, 'clogs.db')
-  
   app.config.from_pyfile(config_filename)
   app = register_blueprint(app)
   return app
@@ -20,5 +12,4 @@ def create_app(config_filename=None):
 def register_blueprint(app):
   app.register_blueprint(acct_bp, url_prefix='/account')
   app.register_blueprint(acctapi_bp, url_prefix='/api')
-  app.register_blueprint(acctclog_bp, url_prefix='/clog')
   return app

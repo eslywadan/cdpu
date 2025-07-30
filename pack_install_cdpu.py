@@ -21,6 +21,11 @@ def _clean_legacy_dirs():
         if os.path.exists(dir_path):
             shutil.rmtree(dir_path)
 
+def _upgrade_pip():
+    # upgrade pip from source
+    print("upgrade pip")
+    subprocess.run([sys.executable, "-m", "pip","install", "--upgrade", "pip"], check=True)
+
 def _install_from_source():
     # Install from source
     print("Install the package from source")
@@ -61,6 +66,7 @@ def main():
     args = parser.parse_args()
     
     print(f"You have choiced {args.install_option}")
+    _upgrade_pip()
     if args.install_option == "1":
         print("Start to install from soruce directly")
         _install_from_source()

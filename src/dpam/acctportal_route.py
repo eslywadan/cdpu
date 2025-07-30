@@ -5,10 +5,9 @@ from dpam.tools import account
 from flask import Blueprint
 from dpam.tools.logger import Logger
 from dpam.tools.account import Account
-from dpam.blueprint_create import acct_bp as account_bp
 
 # app = Flask(__name__)
-# account_bp = Blueprint('acct_bp', __name__)
+account_bp = Blueprint('acct_bp', __name__)
 
 @account_bp.route('/')
 def get_index_page():
@@ -296,6 +295,8 @@ def create_group_role():
 
 @account_bp.route('/insert_group_role', methods=['POST'])
 def insert_group_role():
+    (user_id, sess_key) = validate_user.validate_user()
+    if user_id is None: return validate_user.redirect_to_login()
     try:        
         client_id = request.form["txt_client_id"] if "txt_client_id" in request.form else ""
         type = request.form["txt_type"] if "txt_type" in request.form else ""

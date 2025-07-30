@@ -1,0 +1,6 @@
+# Description: sync_account is used for descibing a data engineering task
+#              pipeine: [1] export the account data from account.sqlite database in tab format
+#                       [2] insert the data into target database 
+context_name: ci-dev # where the context defined in kubeconfig
+source_data_deployment_name: dpamsidecar # the name is used for finding the source container
+target_data_deployment_name: postgres # the name is used for finding the target container

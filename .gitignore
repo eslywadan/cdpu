@@ -26,7 +26,7 @@ config/mycminl.*
 config/cminl*
 config
 ext/config.json
-
+logs/*.log
 venv/*.*
 venv/Include/*.*
 venv/Lib/*.*
@@ -45,6 +45,7 @@ dpam.egg-info
 dataapiaccount.egg-info
 ext/account.sqlite
 src/dpam/ext/account.sqlite
+src/dpam/ext/*.log
 src/ext/account.sqlite
 src/ext/*.log
 lvenv
