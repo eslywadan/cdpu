@@ -1,8 +1,8 @@
 from dpcm.kubernetes.kubecontexts import KubeContexts
 from dpcm.kubernetes.kubeconf import kubedep
-from kubernetes import client, utils
+from kubernetes import client, utils, stream
 from kubernetes.client.rest import ApiException
-import time
+import time, os, base64, tempfile, tarfile,  shutil 
 
 
 def check_existed_dep_by_name(kubectx:KubeContexts, dep_name):
@@ -31,12 +31,15 @@ def create_dep_from_dic(kubectx:KubeContexts, dep_dic):
         a dep_dic is the config of a deployment 
         -  it is a dictionry type by following the kubernetes' deployment format,
            Generally read a deployment by calling the kubedep function import from dpcm.kubernetes.kubeconf
+        
+        returning message
     """
     try:
         dep_name = dep_dic["metadata"]["name"]
         utils.create_from_dict(kubectx.api_client, dep_dic)
-        status, _label_selector = get_label_selector(kubectx, dep_name)
-        if status == 1: return wait_for_pod_ready(kubectx=kubectx, label_selector=_label_selector)
+        status, _label_selector = get_label_selector(kubectx, dep_name) # Ensure the deployment is ready
+        if status == 1: 
+            return wait_for_pod_ready(kubectx=kubectx, label_selector=_label_selector)
         else: return _label_selector
             
     except ApiException as e:
@@ -148,3 +151,92 @@ def apply_deployment_from_dic(kubectx:KubeContexts,dep_name,_dep):
     del_dep_by_name_wait_pods_deleted(kubectx, dep_name)
     create_dep_from_dic(kubectx, dep)
     return dep
+
+"""
+Utility functions
+exec_copy for general file copy, exec_copy_simple for text file copy
+"""
+
+def exec_copy(kubectx:KubeContexts, _source_data_dep_name, source_path, destination_path):
+    """
+    Used for general files copy, 
+    Copy from a given source data by its deployment name and file path, to the assigned destination path
+    """
+    status, pod_name, container_name = get_pod_and_container_from_deployment(kubectx, _source_data_dep_name)
+    if not status: return f"Given {_source_data_dep_name} has not the running container"
+    try:
+        resp = stream.stream(
+            kubectx.corev1api.connect_get_namespaced_pod_exec, 
+            name=pod_name,
+            namespace=kubectx.namespace,
+            container= container_name,
+            command=['sh', '-c',
+                     f'tar cf - -C {os.path.dirname(source_path)} {os.path.basename(source_path)} | base64'],
+            stderr=True,
+            stdin=False,
+            stdout=True,
+            tty=False,
+            _preload_content=False
+        )
+        
+        base64_data = ""
+        while resp.is_open():
+            resp.update(timeout=1)
+            if resp.peek_stdout():
+                base64_data += resp.read_stdout()
+            if resp.peek_stderr():
+                print(f"STDERR: {resp.read_stderr()}")
+        resp.close()  # Close the stream
+
+        base64_data = base64_data.strip()
+        tar_data = base64.b64decode(base64_data)
+    
+        # Create a tempfile to store the tar data
+        with tempfile.NamedTemporaryFile(delete=False, mode='wb') as temp_file:
+            temp_tar_path = temp_file.name
+            # Read the tar data from the pod
+            temp_file.write(tar_data)
+            
+        # Extract tar to detination path
+        with tarfile.open(temp_tar_path, 'r') as tar:
+            member = tar.getmembers()[0]
+            # Extract to a temporary location
+            extracted_temp = os.path.join(os.path.dirname(destination_path), member.name)
+            # Overwrite destination file
+            if os.path.exists(destination_path):
+                os.remove(destination_path)
+            tar.extract(member, path=os.path.dirname(destination_path))
+            shutil.move(extracted_temp, destination_path)
+        
+        os.unlink(temp_tar_path)
+                
+        print(f"File copied to {destination_path}")
+    except Exception as e:
+        print(f"Error copy file : {e}")
+        raise
+    
+def copy_file_simple(kubectx:KubeContexts, _source_data_dep_name, source_path, destination_path):
+    """
+    used for text files copy
+    """
+    status, pod_name, container_name = get_pod_and_container_from_deployment(kubectx, _source_data_dep_name)
+    if not status: return f"Given {_source_data_dep_name} has not the running container"
+    try:
+        resp = stream.stream(
+            kubectx.corev1api.connect_get_namespaced_pod_exec, 
+            name=pod_name,
+            namespace=kubectx.namespace,
+            container= container_name,
+            command=['cat', source_path],
+            stderr=True,
+            stdin=False,
+            stdout=True,
+            tty=False
+        )
+        # Write to local
+        with open(destination_path, 'w') as f:
+            f.write(resp)
+        print(f"Successfully copied {source_path} from pods {pod_name} to destination path {destination_path}")
+    except Exception as e:
+        print(f"Error coping file with message {e}")
+        raise    
