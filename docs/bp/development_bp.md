@@ -1,0 +1,126 @@
+# cdpu
+
+ComponentPriorityComplexityTimelineAPI VersioningHighLowWeek 1Redis Streams (MQ)HighMediumWeek 2Celery IntegrationHighMediumWeek 3-4Multi-tenancy (Basic)MediumMediumWeek 5-6OAuth2MediumHighWeek 7-8HA (Active-Passive)MediumHighWeek 9-10Retention PoliciesLowLowWeek 11Kafka (if needed)LowHighFuture
+
+
+## gene branch
+
+1. API Versioning - Complete with transformation layers
+2. Redis Streams - Event-driven messaging and event sourcing
+3. Celery Integration - Task execution and workflow orchestration
+4. Multi-tenancy - Flexible isolation levels
+5. OAuth2 - Provider and client implementations
+6. High Availability - Active-passive with automatic failover
+7. Retention Policies - Tiered storage with lifecycle management
+
+```txt
+# Core Flask Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-RESTx==1.3.0
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.1
+
+# Database
+SQLAlchemy==2.0.25
+alembic==1.13.1
+psycopg2-binary==2.9.9
+sqlite3-python==1.0.0
+
+# Redis & Caching
+redis==5.0.1
+hiredis==2.3.2  # C parser for redis (optional but recommended)
+
+# Celery & Task Queue
+celery[redis]==5.3.6
+kombu==5.3.5
+flower==2.0.1  # Celery monitoring tool
+celery-beat==2.5.0
+
+# Authentication & Security
+authlib==1.3.0
+PyJWT==2.8.0
+cryptography==42.0.2
+passlib==1.7.4
+python-jose==3.3.0
+
+# Kubernetes
+kubernetes==29.0.0
+openshift==0.13.2
+
+# Async Support
+aiohttp==3.9.3
+aioredis==2.0.1
+asyncio-mqtt==0.16.2
+aiokafka==0.10.0  # If Kafka is added later
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+pyarrow==15.0.0
+
+# AWS/S3 Support
+boto3==1.34.25
+botocore==1.34.25
+
+# gRPC
+grpcio==1.60.0
+grpcio-tools==1.60.0
+protobuf==4.25.2
+
+# HTTP & API Clients
+requests==2.31.0
+urllib3==2.1.0
+httpx==0.26.0
+
+# Date & Time
+python-dateutil==2.8.2
+pytz==2024.1
+zoneinfo==0.2.1
+
+# Monitoring & Logging
+prometheus-client==0.19.0
+python-json-logger==2.0.7
+sentry-sdk[flask]==1.40.0
+
+# Testing (optional, but recommended)
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+pytest-flask==1.3.0
+pytest-mock==3.12.0
+factory-boy==3.3.0
+faker==22.2.0
+
+# Development Tools
+python-dotenv==1.0.1
+ipython==8.20.0
+ipdb==0.13.13
+black==24.1.1
+flake8==7.0.0
+mypy==1.8.0
+pre-commit==3.6.0
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+sphinxcontrib-openapi==0.8.1
+
+# Serialization
+marshmallow==3.20.2
+marshmallow-sqlalchemy==0.31.0
+pydantic==2.5.3
+
+# Configuration Management
+pyyaml==6.0.1
+toml==0.10.2
+python-decouple==3.8
+
+# Message Queue Alternatives (optional)
+# pika==1.3.2  # RabbitMQ
+# confluent-kafka==2.3.0  # Kafka
+
+# Additional Database Drivers (optional)
+# pymongo==4.6.1  # MongoDB
+# cassandra-driver==3.29.0  # Cassa
+```
