@@ -54,4 +54,5 @@ lvenv/*.*
 *.egg-info/
 src/instance/events.db
 src/dpem/instance/events.db
+.claude/*.*
 .claude
