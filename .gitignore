@@ -2,6 +2,7 @@
 .vscode/launch.json
 grpc_cust/__pycache__/
 log/*.*
+logs/*.*
 static/css/kendo.*.css
 static/css/kendo.*.map
 static/css/BlueOpal/*.*
@@ -53,3 +54,4 @@ lvenv/*.*
 *.egg-info/
 src/instance/events.db
 src/dpem/instance/events.db
+.claude
